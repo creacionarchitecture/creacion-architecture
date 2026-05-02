@@ -1,0 +1,788 @@
+Uri: https://apis.google.com/js/client.js?onload=gapiLoaded
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\js\client.js
+Content Type: text/javascript
+
+Uri: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.HLcjcliCxoY.O/m=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-EKlLcELGvY6Qdg_kTBmN3Ra8MLw/cb=gapi.loaded_0?le=scs
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\_\scs\abc-static\_\js\k=gapi.lb.en.HLcjcliCxoY.O\m=client\rt=j\sv=1\d=1\ed=1\rs=AHpOoo-EKlLcELGvY6Qdg_kTBmN3Ra8MLw\cb=gapi.loaded_0
+Content Type: text/javascript
+
+Uri: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.HLcjcliCxoY.O/m=gapi_rpc/exm=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-EKlLcELGvY6Qdg_kTBmN3Ra8MLw/cb=gapi.loaded_1?le=scs,fedcm_migration_mod
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\_\scs\abc-static\_\js\k=gapi.lb.en.HLcjcliCxoY.O\m=gapi_rpc\exm=client\rt=j\sv=1\d=1\ed=1\cb=gapi.loaded_1
+Content Type: text/javascript
+
+Uri: https://connect.facebook.net/en_US/fbevents.js
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\en_US\fbevents.js
+Content Type: application/x-javascript
+
+Uri: https://connect.facebook.net/signals/config/831541876141366?v=2.9.313&r=stable&hme=97937018cefade17726f0472876fc101316b2ce9008a35a6a5a7977d7436151a&ex_m=104%2C205%2C154%2C22%2C72%2C73%2C145%2C68%2C67%2C11%2C162%2C90%2C16%2C138%2C48%2C146%2C77%2C112%2C47%2C127%2C39%2C75%2C78%2C134%2C159%2C164%2C8%2C4%2C5%2C7%2C6%2C3%2C91%2C101%2C165%2C170%2C219%2C62%2C186%2C187%2C55%2C276%2C30%2C74%2C231%2C230%2C229%2C23%2C33%2C103%2C61%2C10%2C63%2C97%2C98%2C99%2C105%2C130%2C31%2C29%2C132%2C133%2C129%2C128%2C155%2C76%2C158%2C156%2C157%2C50%2C60%2C123%2C15%2C161%2C45%2C263%2C264%2C262%2C26%2C27%2C28%2C18%2C20%2C44%2C40%2C42%2C41%2C83%2C92%2C96%2C110%2C144%2C147%2C46%2C111%2C24%2C21%2C119%2C69%2C36%2C149%2C148%2C150%2C141%2C139%2C25%2C35%2C59%2C109%2C160%2C70%2C17%2C152%2C114%2C81%2C66%2C19%2C85%2C86%2C116%2C84%2C136%2C135%2C34%2C278%2C293%2C212%2C201%2C202%2C200%2C296%2C288%2C52%2C213%2C107%2C131%2C80%2C121%2C54%2C49%2C113%2C120%2C126%2C58%2C64%2C151%2C115%2C37%2C32%2C53%2C56%2C100%2C163%2C1%2C124%2C14%2C122%2C12%2C2%2C57%2C93%2C65%2C118%2C89%2C88%2C166%2C167%2C94%2C95%2C9%2C125%2C102%2C51%2C142%2C87%2C79%2C71%2C117%2C106%2C43%2C143%2C0%2C82%2C137%2C140%2C153%2C38%2C108%2C13%2C168
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\signals\config\831541876141366
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300%2C300italic%2C400%2C400italic%2C700%2C700italic&display=swap
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:i%2Cbi%2C700%2C400%2C500&display=swap
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\googlesans\v67\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\googlesans\v67\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/close/default/24px.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\i\short-term\release\googlesymbols\close\default\24px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\lato\v25\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\lato\v25\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\lato\v25\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wWw.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\lato\v25\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\lato\v25\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\lato\v25\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v31/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\sourcecodepro\v31\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v31/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s\sourcecodepro\v31\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUA1d5lUCANRTykQqLbmmSS0zpqXhgcn4ra2-4e88PShjspAwMPqhH6Q5gYnSGaPLdx24c6syEZ6w59-dvRVWhPRTOtf5GCh-dJmEC-jTGF0CpGKE0NuQnZXW0WbsTQ228WiVZXDWgbttQ_R0dWsK4x8YzPyxNAqNddtFjm7w4QPzP2trvFKysT6heG3c2AI1kFcgZFFYnVV5xPTyvfcDTifsdrzsI9tLzgF=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUA1d5lUCANRTykQqLbmmSS0zpqXhgcn4ra2-4e88PShjspAwMPqhH6Q5gYnSGaPLdx24c6syEZ6w59-dvRVWhPRTOtf5GCh-dJmEC-jTGF0CpGKE0NuQnZX
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUA2Mo9aiebsnbgZdXyMeYzQh-rTcuvcY9QblB73f5h_fSzg1CvK34_zxoXqi3wHfZ1K67wn_-bHDsoXIlAZ-__WEGUpneAjkRTw9RV1uIEiujpdaGrWH9D9ZYitV_h-WBBBgm7GgzbvgUg3Bm8VX_xgC9i2ou9HeGJApdpG4oAiCeYQ9zCZoMw1UM_1TcNSBcQbywSdvpVPR5FnpehVmHx0haY--Xl5AsFHBUA=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUA2Mo9aiebsnbgZdXyMeYzQh-rTcuvcY9QblB73f5h_fSzg1CvK34_zxoXqi3wHfZ1K67wn_-bHDsoXIlAZ-__WEGUpneAjkRTw9RV1uIEiujpdaGrWH9D9
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUA2ZmXHRmQm3fDT0woTd35up7gvRJC7NHD1SS0KRggT1ScaCOgsnbEmPveN3LG-Wqmq1qacFy5VaB1ylnzGf5cZwUXWdpnPc_xMWaVmMxnIUMvWrhenWvWn6E2zBmCBERLZaYFC8_QVIby9VQiVIxYu0NIbLH7A4zU9mbWkLHRgzF01m3hvsyhRP_wWA8pVSErgaMAIuz1uFAxKZy7wprALH6tMzkB4xtPc2LU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUA2ZmXHRmQm3fDT0woTd35up7gvRJC7NHD1SS0KRggT1ScaCOgsnbEmPveN3LG-Wqmq1qacFy5VaB1ylnzGf5cZwUXWdpnPc_xMWaVmMxnIUMvWrhenWvWn
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUA4dVbL-W8iI75cta-4glx0Wzouqd2ffbeSS_Xxbabljq6KvsZbiSNhUtbAEuCrzo6Du5_tokAFwJmgOXIPwHGv-onHHna7J2GNGjdB0-qe6_NJZrE5i-y3YQLDXrQadkwkc4Tbnq6_qKWh6RRltpJpO4xFGpxPzNgNDye2dZQ-oS4UBtGNT3gpy0xyCSjmwVpNT_CphRk-vNQO
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUA4dVbL-W8iI75cta-4glx0Wzouqd2ffbeSS_Xxbabljq6KvsZbiSNhUtbAEuCrzo6Du5_tokAFwJmgOXIPwHGv-onHHna7J2GNGjdB0-qe6_NJZrE5i-y3
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUA55bSY2wMFqwboJBTK3HpWeILqT-mMc373pwDwxn6DZQPHO92-DhQota6USbUgJgxsC3i056ZE1jC5XTdhqRvyazXCPEJiFfp2WTcXQhBtSE4VT6zxzzWXzSOUXSrmbfvTIAMGWX5Vh2hGjUj09owPz0iZSApTm6Cguz2BS_rZcpDQpkMxvg-hpHvEY4z_eUVa4eB2CfOKm1Hr8nATBli0ixeQm2SCFryj=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUA55bSY2wMFqwboJBTK3HpWeILqT-mMc373pwDwxn6DZQPHO92-DhQota6USbUgJgxsC3i056ZE1jC5XTdhqRvyazXCPEJiFfp2WTcXQhBtSE4VT6zxzzWX
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUA8vDRzpBJ3-cHbGRgrdi-_JfOafBsggXQElksDStweUJYiVbpuUi0cq4__3-qgARZIC72TXKg7lQ_hW16yLFQyZ5vpUL7rvQOb58LaV3Nq6HaC95QJj29mMMGST4xpsiF4OZLpZogdobZpx__4RnQog7l0iWeESeLrc3szD97l4p1oG2yHlH0_z_GRT5zKsHreETUTfwqiDuNG38wn64D5q0FRnMsCdF2Kp1s=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUA8vDRzpBJ3-cHbGRgrdi-_JfOafBsggXQElksDStweUJYiVbpuUi0cq4__3-qgARZIC72TXKg7lQ_hW16yLFQyZ5vpUL7rvQOb58LaV3Nq6HaC95QJj29m
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUABaCgWrs2t0YqK4uKj1tYMEDB_iO2XjwtJB8QXUU2zGOx3MMxCnGomF6DvyBVbZBnQVikUcrvru9gpmJCBsr_sNZxMV_zXhkdwMLsjp9WLTj-KyJrUo7hz9ykPuDd6x8V5Xc9dhDCAOo_XNxGOpQ5_9uzPRmoPNtmBXZi41ZtDwv1xo-F-uZK140EfWcJL6KTZqy5V4WZNQmzci8RiSj4KDY-O6MYXSd1xD40=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUABaCgWrs2t0YqK4uKj1tYMEDB_iO2XjwtJB8QXUU2zGOx3MMxCnGomF6DvyBVbZBnQVikUcrvru9gpmJCBsr_sNZxMV_zXhkdwMLsjp9WLTj-KyJrUo7hz
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUACJYz_8_H0aZS_CdXaOZCNQWDpLC7ilWIMxAEDXUwne0ov2S5lVq6WOlgi1BetGMVqru1GltDXedVQdGO2jizHvacmiEqTddZWMh42HxQEr1Q9Gp90KJxkMaiI-zoapp2ux4FlreVTWG-lUYUKPTTj4b6-lWSbYFmcHiRJUhxClK3T0kihGN9PA4dP_DUH8wA2LrWIidnyXjv2awuER1C93Bk26jm2kB7umcs=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUACJYz_8_H0aZS_CdXaOZCNQWDpLC7ilWIMxAEDXUwne0ov2S5lVq6WOlgi1BetGMVqru1GltDXedVQdGO2jizHvacmiEqTddZWMh42HxQEr1Q9Gp90KJxk
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAd5SmwlkVPMadcqk60nHk8CWQRGiGgSwIsRn58Nhtt4jTWGd4xoeiApp2JDQMOlOd9hYvY3Wh83FzAGoB2VTktg1nFuGDPbv4d3icO-VkWztdX1xwXjR-wOxafpSlXT8Fm2T5eI2WrxTrO8hVvhicfMAmzzHWwyLUbXO3iHpiIKuFy7UHbMs8bNHBnM1zah51MBNAONyXPziQlepbrNfpryYAyOmQMTNQ8uWc=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAd5SmwlkVPMadcqk60nHk8CWQRGiGgSwIsRn58Nhtt4jTWGd4xoeiApp2JDQMOlOd9hYvY3Wh83FzAGoB2VTktg1nFuGDPbv4d3icO-VkWztdX1xwXjR-w
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAEalEKduW_uxXpE8I9-FW-ZsvqFW4JcsetqO-12wZW0CdUzqtk2I5hh8puhxD0ifREEMdr1NlPoBqMHtiI4-5BlTJxb5f4cDoRi8Bypnf0LQ1I4ua1ohL1HxJINPVf7NEvo9h8Q0Nfl7B1YDwj1sYODP2HhxlERqun1tD3XNaEnmRRW6buyerjG85WALoAnJd1lzcOLIQ7mEQ0au4EcNGGMsTZcZjI_VKMkAU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAEalEKduW_uxXpE8I9-FW-ZsvqFW4JcsetqO-12wZW0CdUzqtk2I5hh8puhxD0ifREEMdr1NlPoBqMHtiI4-5BlTJxb5f4cDoRi8Bypnf0LQ1I4ua1ohL1
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAg4oDatWDavZLJ4Xnw2RV98C8_6811mBJKh43nHfEkZjKR1havqedf9ZTg-r2DObxLgSuk7ae5xCOEL4YbqRV8jvgUG9aekWUE1Cs4V57DnlD7vvc9TijdMibcnIgGoOpyGRoIVw-5ENnL6_sjM-2j4ZsqOneDpQ9rkS8wnXk0jFsSKeyxjaorm4pggpTjLoTMKWJeNBez37WQ6lnBXSkcigTRHRTIqWibBJQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAg4oDatWDavZLJ4Xnw2RV98C8_6811mBJKh43nHfEkZjKR1havqedf9ZTg-r2DObxLgSuk7ae5xCOEL4YbqRV8jvgUG9aekWUE1Cs4V57DnlD7vvc9Tijd
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAhILLbWzzvJR6lgYQFNmTZxps4LO2P3ppg9pt-uBN2J9YLl2mPkildxgOyI99BfAy44dGISgjnaHU42r3q81YzSzpLLCmyC82DZgKkTrwBTKXNcz1ueQ31hEYbTNVRyx8aG2py-KMgi1VDeN3mYjUeDTLYkvIe4NosTQPp9PY1n8-EqnRtePGho6Jdgd8MUucMAqSnChMKlnbNYZu0zTnU1QReKIsdpguC=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAhILLbWzzvJR6lgYQFNmTZxps4LO2P3ppg9pt-uBN2J9YLl2mPkildxgOyI99BfAy44dGISgjnaHU42r3q81YzSzpLLCmyC82DZgKkTrwBTKXNcz1ueQ31
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAIzP5NzbXQvfuJOyEDqLX5Vy8NF_DxIdyrDXgY-IO5g5AF7ZmMoFTa8qZPLGLewcJEF6CRHbsBTbquY_2K7pj1za7SCXxtpgxHHnR1rpDo22yN8Qqx--f-5AOTafAHjoLZCYYabxm-Ltey3ix7sHfHRWLMVmiMqTlmZ4ULiea70j7BJQAmlur0po0YFzaUxOgSGBqonKVDxt6noCIYqi0e7dVu3M2qKu9IfsM=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAIzP5NzbXQvfuJOyEDqLX5Vy8NF_DxIdyrDXgY-IO5g5AF7ZmMoFTa8qZPLGLewcJEF6CRHbsBTbquY_2K7pj1za7SCXxtpgxHHnR1rpDo22yN8Qqx--f-
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAJGO6IviWBRYbrwh19l1Q6WVyym0mpf7GJ5g0Ps4CnL9ZcLSARTPt7h0ZKf6DDD-ETxHmVbUVnsys_qsWVzhvltXLM0bW_9m7GQxYhjtzruG6CJDxf-d_BwfxFohDohjR3WOP7mraM3SbTYFTeuLH-t-K2JOKAODoWIpaevsNVnaFY-VIHczybyYMzTMsfSO-IHouoMf2mMpxA9QMWbzbqDZ20PMJ1J5lK=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAJGO6IviWBRYbrwh19l1Q6WVyym0mpf7GJ5g0Ps4CnL9ZcLSARTPt7h0ZKf6DDD-ETxHmVbUVnsys_qsWVzhvltXLM0bW_9m7GQxYhjtzruG6CJDxf-d_B
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAKlxhHl9giiHVu1nNGhPbLBy8WKlGlTsZd-qvEm99CdlTVPiv93fAbEvTHPZTpU1eMEQ_JKks_q2f_B361J1pyDbLVVEGMJkPduPiXooz_POCBhSMxeXpkcT905LvgWpWE5Z8wtIUc9Lqu4EgEWi6k0kyXhd5Zu0FnI6TDLNjna-T5ae9WDOkovtneJ8qvMPCe67nJT794o32Yn-d7XSYp7P9Sc9S5Rah0Ls0=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAKlxhHl9giiHVu1nNGhPbLBy8WKlGlTsZd-qvEm99CdlTVPiv93fAbEvTHPZTpU1eMEQ_JKks_q2f_B361J1pyDbLVVEGMJkPduPiXooz_POCBhSMxeXpk
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAKRMVP7MPI-e0h1gWo6MDHtfkgOisk9_5IepwersTbjQDy-5PjS0elk7r_TU8kEca0pj87PoDDXtwq4rPtwXbrhRwo5eVjO22SIF8N-MzRdm7atj5bL7pvwEsTiofWIobnNwPPEFPfwLi5P3NoAYS12-peAhkB3D83qlfGihkK21miovp2wQHB1dehSzFYgla8d35xBTiK5vr2XmksJGrw09-fMEvs1dIfF0E=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAKRMVP7MPI-e0h1gWo6MDHtfkgOisk9_5IepwersTbjQDy-5PjS0elk7r_TU8kEca0pj87PoDDXtwq4rPtwXbrhRwo5eVjO22SIF8N-MzRdm7atj5bL7pv
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAm9FGRQYxohk5rsVwPYCxK5l5fqjKlJO00O0fPT69ftXcIp1B7AlcUnW9MPqr_OuyQr6vVd7rrN6zjIAFVEtZ9FacvJSIx3_8e8Tdu9wDkfA05nIjib_e5ixFN_Uz4H736dOZq1yX6mVpNdCAeAx2Iq09JAMANhpyTRdsA-W4rfuOAI7GgHTgeJtY6A1dHVANN_-nwsQFabCHSmqSm2pz5c7wImd2HLXzfr7w=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAm9FGRQYxohk5rsVwPYCxK5l5fqjKlJO00O0fPT69ftXcIp1B7AlcUnW9MPqr_OuyQr6vVd7rrN6zjIAFVEtZ9FacvJSIx3_8e8Tdu9wDkfA05nIjib_e5
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAMPnpPndlY28CKPWMaaWUWTFZV6fXhnm8WlK1nwFMhHul2OOnba8oqED2Ea0ES0y1EzKOtT4S3K7PqIFQ85uqNKMBUldZqSnv9jqnUdq_REE_Go7zhnYQnYSXTwb48-0w0HM_apoEEIe0YNJJdhVqdGVzwQRQvpZmJX1iQPMjvqb41oFuhLDeqPnly3JhfIkO49awex0EegwVuRecqcblXJb-I_h1TdXpjpPg=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAMPnpPndlY28CKPWMaaWUWTFZV6fXhnm8WlK1nwFMhHul2OOnba8oqED2Ea0ES0y1EzKOtT4S3K7PqIFQ85uqNKMBUldZqSnv9jqnUdq_REE_Go7zhnYQn
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAnB8jBf2au2FFouzL1JsY4PIrn1VCEmHiqXehXKnxqC6jlF_YVhMOS3VgBhplLcwkYPtuCXrUbIEoc0vbNjhteOxaBuvFr5hR6Hv69kC5Kletqy7eVhfYUfogYUSCBcaEnVkiRtET4FaR5QkqEo3SWVow9SkNHRJmRsN9fDP12rHM7LwCWq8nf00D3FkPuYtW0iiVP-poLDNxZgI2kTlCMmqdgQSXGbtsK=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAnB8jBf2au2FFouzL1JsY4PIrn1VCEmHiqXehXKnxqC6jlF_YVhMOS3VgBhplLcwkYPtuCXrUbIEoc0vbNjhteOxaBuvFr5hR6Hv69kC5Kletqy7eVhfYU
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUANuzLzt2zaCb5MfgpDbjDvhjediu-L0uS7DjPPK1GzQyWlOq3H_9Apc1gT0Skgd8js8HlIL3E8JJBc7ZWhtj7t06dxTcNIXpif4Y0FhwZI2KbRKCcRgzkOJyU9Ecg5Mf6Zudqi1EyYIA3_HXZ5ACKp8_SPz7XaJ8Snqn6OdmU77yCm1GAB5UYShc9RM88-656Aa5UUlBwKchRk9FnoiKbNu1wdwfSuAf7-xBI=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUANuzLzt2zaCb5MfgpDbjDvhjediu-L0uS7DjPPK1GzQyWlOq3H_9Apc1gT0Skgd8js8HlIL3E8JJBc7ZWhtj7t06dxTcNIXpif4Y0FhwZI2KbRKCcRgzkO
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAo5vGjpFBaGDp3-idBCLn9OSI_qSWeVKhmLFR_ADAu9DD_voY0SBD14H9l_uNsTKydK-2RNIc78tSH8Q9B0kvDKMNKTqWqpeLnFCoOKkQ_GdEbKboUK2m4Bc6cj44T0mdmSb1eRgo5kJzZh5zDnlOVcNK_3R_tgAc1O-dT8qeka1DVBOK48o25tVXfKQQpa7tSLa3SCBsO9ObzAJpYGjiZRBAp80qtcKKETpk=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAo5vGjpFBaGDp3-idBCLn9OSI_qSWeVKhmLFR_ADAu9DD_voY0SBD14H9l_uNsTKydK-2RNIc78tSH8Q9B0kvDKMNKTqWqpeLnFCoOKkQ_GdEbKboUK2m4
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAOpfLXqg-zmuGcmM75JB0-ypZa5VE-LYmGuhfAaMJevu7zGW9Hf4UR2P6pDGqBka3v7neLYFOoxHjfFwVUwd_3uRt16UtkaIMwQ5zs613iXGTrFuXrOV92WyB879QNt1Adn8ZZvZu0gcuS6J3Es-pJUTDgrHJCicQOVouXZM9-N4egyL1f_pPx8AY=w16383
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAOpfLXqg-zmuGcmM75JB0-ypZa5VE-LYmGuhfAaMJevu7zGW9Hf4UR2P6pDGqBka3v7neLYFOoxHjfFwVUwd_3uRt16UtkaIMwQ5zs613iXGTrFuXrOV92
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUATckaaNP2-Rdbe_nLAXWTH0KV7U_hGDUiKYMIHRzJ60ssZNNpIsQMPNuZqxPskTE_c5kwXCchkHcEK-QE-v9CXm4OycApGwQDzNgeozk8UHDat1fPWoPrnCAYpW3NfdnkpV-ZtIV0R2iEqNWtsL5AGEZlCPwmjyATDiii51qI-OvPe7Ymar_n896yT8RJ6hMlHvsebnS8OdzeMBIUWbUgc66usGBxTcs6R=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUATckaaNP2-Rdbe_nLAXWTH0KV7U_hGDUiKYMIHRzJ60ssZNNpIsQMPNuZqxPskTE_c5kwXCchkHcEK-QE-v9CXm4OycApGwQDzNgeozk8UHDat1fPWoPrn
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAUpf9ZabNZw71g5Cv6D4gmJ1Z03cswwQleOwY_IQhP6syIUzyLtosQMNkprV30K5JlfLFxZR5URZnbfAzs613PtdfOgjK1DMSstQP97cBu7lSST5RP1E86i0b883L2bwHDrEl34Owjll3RvwSu7CRG8EAH3EzGxPq2qngyb36lU5lG2EgCycMloUs7n6JT3of-GSDJxYdcTUIjDWc9UIIK7kVHq6EX_IGAx7g=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAUpf9ZabNZw71g5Cv6D4gmJ1Z03cswwQleOwY_IQhP6syIUzyLtosQMNkprV30K5JlfLFxZR5URZnbfAzs613PtdfOgjK1DMSstQP97cBu7lSST5RP1E86
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAW1yEbcBhQfuITTubLh4Kfql3epLoFhu0aHhsOQTPLJs9Qo4z11Jdts-Wct8F-HJHTGS5qhbk12xpsqTw_aMqHBVkYf4ekIiJEhL_fQVKip0ESNjrBoXOfHFweOi45RA8XHUKkf1aB4C8sePo4Uw6bwFU_qvFxu9vcIvNmZncLufKSB7pr7kZk49EnkE3pp9ExDhVeoAXCY3UXkJnZNCWaJ3j5BHixlRIbhIo=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAW1yEbcBhQfuITTubLh4Kfql3epLoFhu0aHhsOQTPLJs9Qo4z11Jdts-Wct8F-HJHTGS5qhbk12xpsqTw_aMqHBVkYf4ekIiJEhL_fQVKip0ESNjrBoXOf
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAW6HdeK37sBXYJgItbXgRclHbqMx8qD3LdZhvVlcReljhq12dODmCLB93BM978UPFTYNPaAPQymLg3tAOhMgKyxZeJ9cV3Q8DsI1zDUVolwuE9brK3WcU4xsTgcmBlmCDVFIMsbQQ0VRsVunIlGeFXQ6hRhkjUiLoEwoC0JdtI7P_uEN8gJm21ys-J9KKA45j3u95_pKlZaYrzdZZ5gLlUwQcRVeWKcu96qSQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAW6HdeK37sBXYJgItbXgRclHbqMx8qD3LdZhvVlcReljhq12dODmCLB93BM978UPFTYNPaAPQymLg3tAOhMgKyxZeJ9cV3Q8DsI1zDUVolwuE9brK3WcU4
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAwbpcYHbCFJUL2Z0_busQERfiOLEN9zR-emLDfo-_TnzpDJJq2Orq47ekdA0VNRSiihD4_FKckevOacoWQKgCIn1A5_UsW1pc6rPmd8dZHM8-NpVv_45B0eL1dK5Mpy5Lq5hAduw6WCiPXTQNUovarxIuSp-JDJtW8UxEaCCPXec1j8JJvAKHBTf0VsFAeBPQyANVonY2qgiuDtV8VezbZKkafQN8FtrcZkOM=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAwbpcYHbCFJUL2Z0_busQERfiOLEN9zR-emLDfo-_TnzpDJJq2Orq47ekdA0VNRSiihD4_FKckevOacoWQKgCIn1A5_UsW1pc6rPmd8dZHM8-NpVv_45B0
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAXXp_siYcBuqeaWdgiCTmzewATzT75ecUvftf4U0tocBIXN_cMA3f5I2B3y4j4hVT6n15Odk-lKT7tJLBuYkbmgBrAmTuzski3Nv2dHR1hYcbf8KppPosNtiDu0oVlhg-JmRD4Y-iv2_PYSvFYNiXDEeEXffJDU_hRB06q_3s1B8hETt_qjmNZcgU6Yn6JpaBn60DPRcjqJ7bD2I5q6PCH9842GS7tSiO2lLY=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAXXp_siYcBuqeaWdgiCTmzewATzT75ecUvftf4U0tocBIXN_cMA3f5I2B3y4j4hVT6n15Odk-lKT7tJLBuYkbmgBrAmTuzski3Nv2dHR1hYcbf8KppPosN
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAyUe__IQmebvg2Edqp8cAGr2rl6h448EAK6HQpF2F5ukFUYIrz7dALtDG6x8FTHHjalzEym1L5ZBCHHu6ECxs0VjW_x1yghVTGNDKaixRwkX_htb-H5yKP0Jm553lxSCc3fwAqEfmW2seGfQvNUksoYiEP1230EGIn_PYpsCY9iRTskBSGgrrEUiA4lfZrMrhZQUj6uaVAk6W4U4vGinbaOiZnQVTziR5E=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAyUe__IQmebvg2Edqp8cAGr2rl6h448EAK6HQpF2F5ukFUYIrz7dALtDG6x8FTHHjalzEym1L5ZBCHHu6ECxs0VjW_x1yghVTGNDKaixRwkX_htb-H5yKP
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAZi7H1gHJNSTtk15Qdk22nfoF4pu0u2Ch_b1zY-CYJW-LndJVLf5MkMUiUFvRuCr3dv6-oiyLGQF6adYYiq3xEoyQ-6IFYd2-mJxf6FjGpOBfGkxKaCsKXbbvzXGIDiQOX4LRhVnn0mAgeyhBP7EZPo1FdAp1LuJcW-UcH4n_ja8xsPnwVz8-lDk5s3xWxnNLGpCJC0ythhOOn75mjSUZmOCAYVg-NHFVn=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAZi7H1gHJNSTtk15Qdk22nfoF4pu0u2Ch_b1zY-CYJW-LndJVLf5MkMUiUFvRuCr3dv6-oiyLGQF6adYYiq3xEoyQ-6IFYd2-mJxf6FjGpOBfGkxKaCsKX
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAZtpQZaG9UIGa2Cl9vjdym-XIcxSukJgmztKdrS2WRPZRmYU-kpG-q9dbvXhOpDUfpiTRt6rD4uj6YkLCs2vLcQhvT0KuTXVY1STQrClDEgk03-3ShgHWjJNMer4PgCouVsesNQSsOUf2ZonjMRqfFK3bcVy5XORLXY44ijeIKtGJYGJ-1xvCodixaptnSIeRmG0AclTuxZPm-z6arrc21zVI76xFbu7dNORw=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAZtpQZaG9UIGa2Cl9vjdym-XIcxSukJgmztKdrS2WRPZRmYU-kpG-q9dbvXhOpDUfpiTRt6rD4uj6YkLCs2vLcQhvT0KuTXVY1STQrClDEgk03-3ShgHWj
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUAZy6kjxYhG8DuS8zTWv3_I_2BMgVJchsDXgHT5Vy-3Y8jZX4jk_80oyZE6PuWeirs4JKqDvHZru3DEE5du5qcboLkqWy_c0SceBbAUf2NZEicjZdQzWoBer_i0emcenkyLufwd9MxHKiOWCk31Bo2xzZrRt0nIGCYSae9rTMQeWBgxy5yHjLYrg227h29f0d2A4jPnYCUewJINUpHMfm03t2sks7cgNEcIZQE=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUAZy6kjxYhG8DuS8zTWv3_I_2BMgVJchsDXgHT5Vy-3Y8jZX4jk_80oyZE6PuWeirs4JKqDvHZru3DEE5du5qcboLkqWy_c0SceBbAUf2NZEicjZdQzWoBe
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUB-PeChyzYdwTJUA92vmiGGBJ0rwSn-54X1Lvpb4taDhxHZIJ3qLijaBymYx0bEnzvDWIUgLiO0Po8icf_s4fBMnyp8ojFd5dpam5yKc0dQBqVn0pIVdobNbPoczT9evv18pfE9X07TrkDLQU10CyWB7uhJJ__fPyL_hgRjPVh_MbclODMrSD1zkndSSQoi9VPs2kJHP-IfxL2NiJd77lpTiOJoV8B6ZkCURgE=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUB-PeChyzYdwTJUA92vmiGGBJ0rwSn-54X1Lvpb4taDhxHZIJ3qLijaBymYx0bEnzvDWIUgLiO0Po8icf_s4fBMnyp8ojFd5dpam5yKc0dQBqVn0pIVdobN
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUB2zZv251zUEnJSSMrHY7Igqooyr5J17PMJ2jxST46_sV5A-KjekLvH113CPDofHayrHvo-seFKQWhRv9mcuLemTh78JhSG98WDOvbEqKHMGkWa7TbEF5qlxU_6lmmLNv7oC7ESK5JRhP6-MenCBVOKayjHzXxezk-62jzk9ouHAovqzp2PkObB-d7Zw4Ssx1PZ_VvMWxstiLeNjT0
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUB2zZv251zUEnJSSMrHY7Igqooyr5J17PMJ2jxST46_sV5A-KjekLvH113CPDofHayrHvo-seFKQWhRv9mcuLemTh78JhSG98WDOvbEqKHMGkWa7TbEF5ql
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUB48Cmf4oGcDwQcKJM7K0kWCz3TipT7qVe98gbIfZW9huzpDhV_6ebAOROkTpmDcjKDvWpmWyA9WFKO3sIlK2aFi4ugAUuSEq8y5BiG3A4CRWYHXg3m4Y1zHF3SmMWUWbQZyuOPJEydulMfW8ov-8jK_ZABjNr11EJ2Uw7dWzHaSopGbWYXDBKjnHG0vdvNeLwZM19_bl3fuZek4TWr76S9zbFdF3yODVsZeQU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUB48Cmf4oGcDwQcKJM7K0kWCz3TipT7qVe98gbIfZW9huzpDhV_6ebAOROkTpmDcjKDvWpmWyA9WFKO3sIlK2aFi4ugAUuSEq8y5BiG3A4CRWYHXg3m4Y1z
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUB6-6_7utJ1RlaXuPTpw5aQdzXUSFdsyMzx2v3LYNrICHbGJ7JOHwyftG0LzvyaW5OHEJAYN3mgFFe34BpXJdJgGVmJQuTb1rfw1FeXNlhsBF6vh0EjXJZyHVfyPBAf1FucMHwkZsBrsEpDtkZt9VJ5FHvMDcVlct22rh8Fk84je6iEqv6mp3JX_yyXiUb8ros6knukljZcwaIJxoAopZZWiYA-hb38m8Q787E=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUB6-6_7utJ1RlaXuPTpw5aQdzXUSFdsyMzx2v3LYNrICHbGJ7JOHwyftG0LzvyaW5OHEJAYN3mgFFe34BpXJdJgGVmJQuTb1rfw1FeXNlhsBF6vh0EjXJZy
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUB6HfFKsNHlHMunNW8umQT-Kzsro3bUgPRoRsoqIlgapnzi7ropBZEoPZ0e8CNxwgdidMXfM6JW56M9kARmhaJPLos1Pq22bwRnF0t8PH80AX390N9gQ4en4aI879FvvpgJzaILc_eKiaHniHh_QzulWK5vM8h-KSoO9muen6dxNO_GYvuGuwbVkKMYd2eYb15roHoNu6EP__fYSdOhgPPN_FboFKYQB_0kYOQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUB6HfFKsNHlHMunNW8umQT-Kzsro3bUgPRoRsoqIlgapnzi7ropBZEoPZ0e8CNxwgdidMXfM6JW56M9kARmhaJPLos1Pq22bwRnF0t8PH80AX390N9gQ4en
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBAK6ZlW4Od5Sk8ghyKwOBNSKPx_MvEmA2rMpowjNaEbN6yfMjGc6gXLcl4VG_5YDmM5koiQdtvQ0g34mwcJIBifrHQ2sB8iNJXWJDzb5iyuCE2iGlk7_AhiWAjZAesBzzqHfzykDLdV5fPBeoimdzxIKSrN3vVGv93Juc-UMWXN3R_EXdMX7tQynA6b7YVEvgN8-fD7wohFQ02jIAlUxfqgg19kC5maR6N=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBAK6ZlW4Od5Sk8ghyKwOBNSKPx_MvEmA2rMpowjNaEbN6yfMjGc6gXLcl4VG_5YDmM5koiQdtvQ0g34mwcJIBifrHQ2sB8iNJXWJDzb5iyuCE2iGlk7_Ah
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBAOcrY_r43mOqQkosTeUs36eVQ_VPJKJgl6QN4dv7X2tTERalV_20WpWjdh7K49HAJjp_9oZxakvisxq6l4unWPO1Z2IvjnBsp3VOGqtXpKzVm9CkB6OyQ3aGREUUfd8KqB8Z2BjhibAKCVveKGombCgMeiWomPj5Kk5Fwrzq-qtOUJfSS1V_8DVIVN5LjosXaX3Nu0noaF9GLPhjGrO1MhPYH2lrBtUcJ2EI=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBAOcrY_r43mOqQkosTeUs36eVQ_VPJKJgl6QN4dv7X2tTERalV_20WpWjdh7K49HAJjp_9oZxakvisxq6l4unWPO1Z2IvjnBsp3VOGqtXpKzVm9CkB6OyQ
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBAxfwF9zu8MuwTYTZfYtpBFnc2SBo4F5GMce-TBct6AZ0hcTLCZgw3OCjte7GTtmQ8sSi7I7CaCP2ybDVPVrrhhPpTAPAtVe7-Au1Ys-LyZpX7fifxKrhOz8WNuDGXpNq6QIS6pxCIIO5WmMvLDbE0sMLIEh5ZnO77hjka9iK3IstwtT_HTdlLDo-xpgaPfVK7YdZC6VbCIAyREdICEDqs3qqKoeL2ZoDtCbQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBAxfwF9zu8MuwTYTZfYtpBFnc2SBo4F5GMce-TBct6AZ0hcTLCZgw3OCjte7GTtmQ8sSi7I7CaCP2ybDVPVrrhhPpTAPAtVe7-Au1Ys-LyZpX7fifxKrhO
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBbnXGyXEqugUs2RL44z0LzCQDi2p7du7BYIauLPceQGWrWJyfqUZ0vM3tXUAiEgK6NlvDRTWQSVXIyetVIU5TWzWql9x4-E4Yd1Ap0wcp0l3L20poOhZzZBO9LnD13m1AOiuILVRStWwK0t9HjekrsKCepQU45LOzFZCXoBPcGfUo3HGxzhtQ1gpxIAgrZpBF_TBQJrr0yw0zhdNJNGrKhQqqyE_T-W368qkM=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBbnXGyXEqugUs2RL44z0LzCQDi2p7du7BYIauLPceQGWrWJyfqUZ0vM3tXUAiEgK6NlvDRTWQSVXIyetVIU5TWzWql9x4-E4Yd1Ap0wcp0l3L20poOhZzZ
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBdWUUQ-BsI3N2p1udh43L7VXAcVqJw6YjyxoAKXzhK355Ej03ARUPGqrT8tkUflk_7BupNnt-8USYj6C0bxDZoFwHTM5lXtw0fNYhtOuR8P5j_dKbDpnio8hKW8jjerx62kO_WNfCSg1aMwUc92d2Pgh_9yPIYOedJUWI8Yrrxj974KQvxf6OtTfiP56Lv4VBKpd6Y3CdsiUFGqwV9XHidFR9BEdSwMmSx=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBdWUUQ-BsI3N2p1udh43L7VXAcVqJw6YjyxoAKXzhK355Ej03ARUPGqrT8tkUflk_7BupNnt-8USYj6C0bxDZoFwHTM5lXtw0fNYhtOuR8P5j_dKbDpnio
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBeJQICdWI5dZYqgbKMxsV0ridTBRVZF9OrP63eEn3s1c0aMXV6ygD4u5RUQbrQFAqcMtuMgVuGZjsEQE-Ze7ayOB-h7dQrR-XHmfFTypoAseaPFxtjU4-kfh4UJfjNHMdpA5Nqu0a0tqzUZUlUVQ2iDmSEtz2xfyWjhipYqVrDWen0psaGRRhHvsfURspuHlXk9Jg8LJlrmq6etzb2Us5chnNtUE2nGxM_H5k=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBeJQICdWI5dZYqgbKMxsV0ridTBRVZF9OrP63eEn3s1c0aMXV6ygD4u5RUQbrQFAqcMtuMgVuGZjsEQE-Ze7ayOB-h7dQrR-XHmfFTypoAseaPFxtjU4-k
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBF3x72hqFTc0z2eSN-XUYt_-mThUelWP06E6Xg_sAw6Xr3POKpzzKFTTRagnCwWTz3SJmetbQf7V86JqJZfoLpkXcn2QWgqYERBn269KU7Q1tHBV9L7suYLH4xYTPToF7SODLRQYMntLZF8U6GbreP9OU_G9SD4ufHCmHGgNGgCguRQw5HtA_DE5iUXh5QksirwML11Rbe7sWmrl8fMvqWToCzULhKE_xj=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBF3x72hqFTc0z2eSN-XUYt_-mThUelWP06E6Xg_sAw6Xr3POKpzzKFTTRagnCwWTz3SJmetbQf7V86JqJZfoLpkXcn2QWgqYERBn269KU7Q1tHBV9L7suY
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBfj65qXLnRsE17nK2wZzGmiazwO8HyKvCcC3R5kFdXCTh8Fbxqj78eUyDHyeRpRS2ntCnyAtmjo4okYOMyoFAvGF8UFc3k8tt7tWJ5RDhqoTfPXBZXJsVZAttrYIXOEHAkNQcdBRrDqJziRnCNzss8EvN24DFOHvs0Ia6n3-y6KanC8y-mLzXINrU98hKusCSIxkQKPIDkhKNJ5ufvdtGybYY3DxPVxg=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBfj65qXLnRsE17nK2wZzGmiazwO8HyKvCcC3R5kFdXCTh8Fbxqj78eUyDHyeRpRS2ntCnyAtmjo4okYOMyoFAvGF8UFc3k8tt7tWJ5RDhqoTfPXBZXJsVZ
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBgYSGFKodrXy8QdQHHyDz48Aqx2E9HHNguQjQkcBFUUNuBFC4xbAL6MjVz5NgQUOR3V_ZwCNJ7vRATb2Rw79HEOFUzSqg_01_DUaucNhrytL7Ey4wncsSzrb523L5_AI7lyZXmMl_cH5wbNDlhDBsF3t8LQMv2uCBsqLW-viC9HTRU5YK2n9gXMSQPN3EmEyObk4m-sM45qL2bsEaQ0urlmeF7rlCmjU5A=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBgYSGFKodrXy8QdQHHyDz48Aqx2E9HHNguQjQkcBFUUNuBFC4xbAL6MjVz5NgQUOR3V_ZwCNJ7vRATb2Rw79HEOFUzSqg_01_DUaucNhrytL7Ey4wncsSz
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBHcKsaO3yLY2XHStScunbSw_q1qFWwhYxW7qHPLosPEoEgcpEzFkh1QOZyntt-5RPbEOnsDUrZlDWWFMirhH0D88yqjDc09f68gG2D24FiiT46RV0dk_obGinb_jJ9CpAMumyPUYIVoW9pF0lGvzU_H12pYiaH0c5F91yhk0D9oJW5LCsZPSNz1Q_bhI6_CVeR4I7em43wPA
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBHcKsaO3yLY2XHStScunbSw_q1qFWwhYxW7qHPLosPEoEgcpEzFkh1QOZyntt-5RPbEOnsDUrZlDWWFMirhH0D88yqjDc09f68gG2D24FiiT46RV0dk_ob
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBhOj-geo1_VltEwEmOOteHK2BZOuRERWX4xd7lj1h-ncN9lhkdjf6MDH-hHvGJ98F0qGIFqT_xses8k9VBckXXgxUMvdupGcsNEw_Vn65tBEy_ftQLk-MS3-ZJxtTmukG0cLdSkEjUPmHDpp62ksJu9gjH5KtWXuqd0863Mrqg3J8ArSUGHy8LtEFVtufD5sSQPx1-pYcLmT7biMhy-v-sffszCMilpdOb=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBhOj-geo1_VltEwEmOOteHK2BZOuRERWX4xd7lj1h-ncN9lhkdjf6MDH-hHvGJ98F0qGIFqT_xses8k9VBckXXgxUMvdupGcsNEw_Vn65tBEy_ftQLk-MS
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBKLiC0FJJkhlBc2f5frY7VlZBikqZLiiafrtUKjj1xBUt6SICIc3tUNrl1gKEsxcfRaZPHzAQ5-NWqVMsXooFP2-p4_rZjVFfilVW4bzEC42m447V0Tn8GGVvwaJ2qFdL-oQGat4PClurwKAnX3MhBBqZlBQj1HmBiHxqs2FNmKIe-XkLo4duR3HimkY062-rWfpeDUgGvJJl-IyGHOV7LurNQxtptIUbK=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBKLiC0FJJkhlBc2f5frY7VlZBikqZLiiafrtUKjj1xBUt6SICIc3tUNrl1gKEsxcfRaZPHzAQ5-NWqVMsXooFP2-p4_rZjVFfilVW4bzEC42m447V0Tn8G
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBma8F_WGOy9DkS5KsWyfJUkvXFbqv-EbBBG8pdLimpy432-7oFZWAQhmMVCbUTOXUkNHg_i_Cl8pIgrd_JFANDKf-m1bFfUOZeDvk8NLVZsEtayz5KO0SaUCSRnlpTQS4cf5dpwKJNG4b9K4TKBCbV9Z5zmJo0YrxL4osR21ybb4uarUqPWdhVErFR2Nvzm23CK6k3kAqBr5_Xa9TnTymOlz4iUL8vgzed=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBma8F_WGOy9DkS5KsWyfJUkvXFbqv-EbBBG8pdLimpy432-7oFZWAQhmMVCbUTOXUkNHg_i_Cl8pIgrd_JFANDKf-m1bFfUOZeDvk8NLVZsEtayz5KO0Sa
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBNZ2zcx_6TRGD4p-Wn6FwkC6Lc8JokntnC_DaGqaEyaNV4U_uY1VPIpwSuDu6nUiWK2P8OPZEuoEdfPUoM8HZeCgLcHJ0fs8MZzz0H0qZTblCiAd0YQlwvsHuYA0a35gFWtjHuWw8Tcg7n9qVkZ8rO7cpYqn5u6Bm5PaXwJrgcNB4BJtsTtQUdSeHzYepZiWjhDg2f64xzR002jdVBwQZ8HwW7AGuWVpmeh1Q=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBNZ2zcx_6TRGD4p-Wn6FwkC6Lc8JokntnC_DaGqaEyaNV4U_uY1VPIpwSuDu6nUiWK2P8OPZEuoEdfPUoM8HZeCgLcHJ0fs8MZzz0H0qZTblCiAd0YQlwv
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBP39l-FeACoNm1xOkRJ4nhKv-Bx-6XiH2vakXc5xpUxPNs0UqZo56y1vBJdihMIhwcUYZ8xGVOnN0qHkqGg7gH--gbfNLi2PUHzQaLmFh8eZzqc1TUx-e62_MPxF6URwLFkR_tPubHrL2HQAx23xQyyoP6AbyqCYaGc3BoJ8_ZjLA0_1Bcj8B8dmg1yia2qlSGfdLxKXu14UoPpUXpK3mmzXINCI6iR4wyE1g=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBP39l-FeACoNm1xOkRJ4nhKv-Bx-6XiH2vakXc5xpUxPNs0UqZo56y1vBJdihMIhwcUYZ8xGVOnN0qHkqGg7gH--gbfNLi2PUHzQaLmFh8eZzqc1TUx-e6
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBPnZXntp7pp_4MPfPShiOzUI6lji6XpN-6YeVSE8kFa5w3-liB_RMqRvgN5OYAUlPZQl420ZBqsRm2n10AGGqis8_aqhlE5f-U7ZOzVmPqiZ-PZni1LFYJoQOIkldVQm75ihjp7eMcGuMjZ3oshA7qwlgf992G2YSdIjucj9TGdqxznRWZh7Gpuio7h-lrPYqZ06JhDq7dtyJigO_Q5ip8Yk3-YMJASEkM=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBPnZXntp7pp_4MPfPShiOzUI6lji6XpN-6YeVSE8kFa5w3-liB_RMqRvgN5OYAUlPZQl420ZBqsRm2n10AGGqis8_aqhlE5f-U7ZOzVmPqiZ-PZni1LFYJ
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBqv976yCqVESs4bwCvM5ebqx5F6jwaGw8Sz6xUM34gTybYx6NxZwVXLp-wzfHA1ZROPCRUkxuReoMEKbic1GY-CHbHWHsJwa1rv7VSi49lGMEmTo_l-iA30xiyDrWdOgcki3lPar-0Qgmn21UT2NqYQax9dHC-odEez2Vry4HpKvl0yCPRbYfeTwGJjYqx0vfWIVC6XqlCTzvt4K_sz3NuXM7lbUbS2zH_AO8=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBqv976yCqVESs4bwCvM5ebqx5F6jwaGw8Sz6xUM34gTybYx6NxZwVXLp-wzfHA1ZROPCRUkxuReoMEKbic1GY-CHbHWHsJwa1rv7VSi49lGMEmTo_l-iA3
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBSZ9s1xV6W0-dRxAPKR_RznX3DtdkU1eMy-1CgAjFxuvcoXWWftrxYb0O_lghY7vwmNIu2ar1xpDouc71GFtBMKHrCACWIiAXNHnO5WQgi48LKseNrCTnYY6aBBmA3-VOoWZz4Ca5-sQgjZG4bfHgq-yMgxRtblAz24KdqpgchpiV0EZLAKItyssOK2zZadwaVBmbfjFA29i3ypinM8g3ncV_XI21KEvU7=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBSZ9s1xV6W0-dRxAPKR_RznX3DtdkU1eMy-1CgAjFxuvcoXWWftrxYb0O_lghY7vwmNIu2ar1xpDouc71GFtBMKHrCACWIiAXNHnO5WQgi48LKseNrCTnY
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBt-r1gf53nc4yJRb0Om65_JfFRC0uK3n2ZBXjKQQEZh3l6ikuK6y7oFAjCHLn8390QDyuxMj38WoonKEhYWw0mBndv2LTF8Dye7rqYxB-lO5cNg8H_tIb0VDlG8Lk0oZoNIOjT3APOqX1CBti85bbsUGfwOMuwCrZWN4_Jte5kry6rFFepQ7qMHEuTWTqz4l6NuyzSiEFwmnXReT-e_GRIXFYk7qimNg=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBt-r1gf53nc4yJRb0Om65_JfFRC0uK3n2ZBXjKQQEZh3l6ikuK6y7oFAjCHLn8390QDyuxMj38WoonKEhYWw0mBndv2LTF8Dye7rqYxB-lO5cNg8H_tIb0
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBTUEncET2l9hOX7LL5hYAE_cpe7FXZmPzVCycSAtoSfzPfkDPfP_DjRPoFSRqsdaGv_X-cfkMIyZ3y2-BDJv4VBJBSjD_dV0XGAZRCg30lVAu-ZL-2FCxOg5tV-4bcbMllt65_NAhCNt3vHmolIwgYJXdyI309f6WiQTvbG076lHQdYpJCErluLBEltAZMehXgpbY2jHuKAJ8iHVy4CiDdG3Lcge9lz696cY0=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBTUEncET2l9hOX7LL5hYAE_cpe7FXZmPzVCycSAtoSfzPfkDPfP_DjRPoFSRqsdaGv_X-cfkMIyZ3y2-BDJv4VBJBSjD_dV0XGAZRCg30lVAu-ZL-2FCxO
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBTw9F8RBK-Yx6cN_GjMzqANlTcOdwDkgZsRo0TOEIczRxhKsq3VOOIhPXOxRfxeQnkmvBtnoi8O7YUggCk2lWP6hdTX5TfyWEbbZSYDm0KXiTVFMtkexDsLT2AhPoOMXNxEdhORCC2ogoHaMN7J0BIiUx-mDmcyR0CHRcC-ksPBwq2AmlnauQc_93D-qnwtTRFfkBW5NDY2E_d20BIKAQn1fUc6JOR4-iTuIc=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBTw9F8RBK-Yx6cN_GjMzqANlTcOdwDkgZsRo0TOEIczRxhKsq3VOOIhPXOxRfxeQnkmvBtnoi8O7YUggCk2lWP6hdTX5TfyWEbbZSYDm0KXiTVFMtkexDs
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBvCgs7KUlHmQFYoF3OlE3QtWDDPIkQ1n7rj44wtSvWTsBYzDhYJFVBW1_4snDxoovOXO45nb_ux3gcqGpwUIu9zjn5QPW3azy_stV_dk4u3RpcjMQAou65EFvvEYfCatJtCxhFp-JCsP5V9Ar8G_b_CbpiiMpZk5bgCZHr26eLHFHQORjdPSbWLcrs2HDLgjHcXd4A-M6u9qe_BpMDaY51p4vUshMF8-id2hQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBvCgs7KUlHmQFYoF3OlE3QtWDDPIkQ1n7rj44wtSvWTsBYzDhYJFVBW1_4snDxoovOXO45nb_ux3gcqGpwUIu9zjn5QPW3azy_stV_dk4u3RpcjMQAou65
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBVN0q2WZBdBrnpYQ1RKZOOYs0MZkpeDblHfVkFFJpY7aXToViFerUHcGrAZm4wI5kleRTtUXMcmYAB1mrdgXTtl6VreX8IN9b25CjZGYwgSTEMVjZTSOepKWiIXbIUsBj0sEs7t3LGcAfeFmcJYWaOpl4V7Au5QvI6ADFYfvGf6nrXY9DxS_YR=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBVN0q2WZBdBrnpYQ1RKZOOYs0MZkpeDblHfVkFFJpY7aXToViFerUHcGrAZm4wI5kleRTtUXMcmYAB1mrdgXTtl6VreX8IN9b25CjZGYwgSTEMVjZTSOep
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBVNYxlFGzFvCTbMORIbqjQbNM-4U38GKjs3QmIS5L89JRyJYiHvsupl7eHLPD_hCXZLoGwVVr4Ys1gdATKIKODEyvOwblqq9RhZShHyD7KE-42axe4sqUa16WUjWjXXsnd1HfVngPY24tvkfh3sVm8ZOmdLKLLCEDJoROmS7qeBQesd00a2Bz2BfZrN88UQbFp4vYVfgxERjI4iQ3-B0SKkxRwWOVtAmcNLsI=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBVNYxlFGzFvCTbMORIbqjQbNM-4U38GKjs3QmIS5L89JRyJYiHvsupl7eHLPD_hCXZLoGwVVr4Ys1gdATKIKODEyvOwblqq9RhZShHyD7KE-42axe4sqUa
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBvzLHaF87tiOYFp_ph_Z8hX3TaO8bcgrjSaPEZIaoOV9sTfe0-HEt6QkL75ph09wZQOsL10x50KSNon1_Vd8uubxbVajeSQ_yokCWYvXyD5tqQcbOxusSP07SORtrSm60bQPDpfOuhmo9hrFa4KpC6YB0Dhu12JHD2_bv1SGq6QtacFS2vHbbUkEeNWtIl7dTK0Sg3U6074NHRGsoaGSsSE9IeKMxxHd4KZ48=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBvzLHaF87tiOYFp_ph_Z8hX3TaO8bcgrjSaPEZIaoOV9sTfe0-HEt6QkL75ph09wZQOsL10x50KSNon1_Vd8uubxbVajeSQ_yokCWYvXyD5tqQcbOxusSP
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBWauYFbp26EmHiNcOSBAzG1vx6ac1j4JZbAMd29IDDIWPIiJpnKmrrRJwAts37lrpWCn4wP3pfD_PNe4C29YxyXvPU2yZ-Ykg9ujuPRdSjDfV9jWMlFmDry9UlBPBI4i26dDXJXJ_GuAn8QNVNxuEFeO3LLdS4Ygt5yStoWTPUQ4_GHetVr6zX3_ugA4PhVMXEhWmLckNjrlUqJcRP_2mTKEh-m3ACqIdIcuQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBWauYFbp26EmHiNcOSBAzG1vx6ac1j4JZbAMd29IDDIWPIiJpnKmrrRJwAts37lrpWCn4wP3pfD_PNe4C29YxyXvPU2yZ-Ykg9ujuPRdSjDfV9jWMlFmDr
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBYjlSzwiyFZC02o3sNAkE1JyB7ruSe-8CaRBG_11nuZJ6kdda0S43z5jaVYKWcjTLBC2Yjif_4lgtkhmxnIoAJBmm-Mrci9uoUn42QeFIlVrbsieB6LGTg9kGz9iHUDMWJK0UuXbsTGHQ6wm_COAuzoT2bqmf96ymprNKrLTrD9zAIljZ7RhRgcG2IlcWKfeb387MeGJC7Jhk0bgtmgBgmT49ZBRziS8SbxIA=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBYjlSzwiyFZC02o3sNAkE1JyB7ruSe-8CaRBG_11nuZJ6kdda0S43z5jaVYKWcjTLBC2Yjif_4lgtkhmxnIoAJBmm-Mrci9uoUn42QeFIlVrbsieB6LGTg
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBzt2i0UGtaF1aluxwHtR9tUSWoN-WTPu28CBTj4vEnlfMjhQQ4tBQYHRfZsRjYePa1FJ0UycaAwDghsnwXaDawMD4r-sUXNhDXl1za14hGoxr6vj9iJPSgP7D5Hk0sMR8va2SO6iBCJX9V42chID26QuSfWbA-j0mp9NT0hBxX9Se5qFPYKQFVkhPxxy31Y21Xsh2WsqPnAXmw
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBzt2i0UGtaF1aluxwHtR9tUSWoN-WTPu28CBTj4vEnlfMjhQQ4tBQYHRfZsRjYePa1FJ0UycaAwDghsnwXaDawMD4r-sUXNhDXl1za14hGoxr6vj9iJPSg
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUBzYd5-6rUuhiKRG3vJG4SyfXlNrZ3wDqe3Pjt3lFlEgkelJUpXgO359RemeUTObXXXOfiGug_fXWI8-r8gTzgluE4SL8Cu70yTEDxhjhwWYPfk9DIWdrBRb2bJqvfRScfw02_lehZLOU7R15URowjM0M8j9QNKkKZxMZz95mMjsY_-W-2ZY4t0qN1jLTte9v6sVChfKcig7no9J8_qnk_7C-JtACvYc0oF0Vs=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUBzYd5-6rUuhiKRG3vJG4SyfXlNrZ3wDqe3Pjt3lFlEgkelJUpXgO359RemeUTObXXXOfiGug_fXWI8-r8gTzgluE4SL8Cu70yTEDxhjhwWYPfk9DIWdrBR
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC080UEL73w9izq1dK6Zt5uUwI8Vlbb3yA_BavLgsKDJPX0iheCaSWjD0hvBW867H5u7r8u1EM5z4U8tjdwgsSz8yQ63qalO6_njm0rl9qTHLg3ouc5lNTIJcArd07O_QNqN1pPIaIBh6CxsVP-e4wQy_fmHy8rxudflv02qjmEEs41qAcLoVyUA8l_fSoN-lelrNeSbhIbSGpK9P4WPtiK-4yWwhUntp2k=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC080UEL73w9izq1dK6Zt5uUwI8Vlbb3yA_BavLgsKDJPX0iheCaSWjD0hvBW867H5u7r8u1EM5z4U8tjdwgsSz8yQ63qalO6_njm0rl9qTHLg3ouc5lNTI
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC2JVJwCXrWCW8xkQ3L_SJ2Y_UOYbaeRGbF4A3dxRrAyOe6f4bycU2qrwI2F7ACbp4IagVCUlCeaXjwNt_BFmDttV5-hgC0EIQBXbu23CsAIbsl3oyDDPSm2zTODDBk8rTcIrDvVFOHk3VIRQVbxLGui83KzdLztIaXsNDbdpt3nzEriZfb2ICcxNNn4NXSNcUHhhaTIuGMuYalAgF_bsimGL7NeuSwn5jU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC2JVJwCXrWCW8xkQ3L_SJ2Y_UOYbaeRGbF4A3dxRrAyOe6f4bycU2qrwI2F7ACbp4IagVCUlCeaXjwNt_BFmDttV5-hgC0EIQBXbu23CsAIbsl3oyDDPSm
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC3L2dvQWvPOqEdJA-ylY5L6wo2Yn7l51U7_68-u3OYjA2zn_opqe9iAyTDLhnLNFOmXkMBdeH0A2mJbOyvhXXLPkP43Zg8ZD1ZbRRKcKZD6SkhugU4Mo3UL-6tXxFuxH_yooIuM2K9AGV6UtDb1E5fnl6kKn79dGHmOn9eUu_HiASUNpG_pVvxF-UK2RYKGjUIG2TivewmgUCY2mmJMU4nCncuU1GQ1jLe5_U=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC3L2dvQWvPOqEdJA-ylY5L6wo2Yn7l51U7_68-u3OYjA2zn_opqe9iAyTDLhnLNFOmXkMBdeH0A2mJbOyvhXXLPkP43Zg8ZD1ZbRRKcKZD6SkhugU4Mo3U
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC3pNROvz_XF30M7EUW5ViJSIhyjAgR159tZSFb9a6IZWEPHEtDzgWyAYuC1786x2bvyQB1ueeF51We0D4_LLRA-cYuEn6dvN-3-Idq3FbD9XYLyN6ipQWoeNv9ijCsOJamWG6gVt1Qg0E90M28GsN_c0ZQJLtyia3AtgVCKQ1WYeVBStWuOR4FdRXKK8SWbsz3huzTYrKmgQ
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC3pNROvz_XF30M7EUW5ViJSIhyjAgR159tZSFb9a6IZWEPHEtDzgWyAYuC1786x2bvyQB1ueeF51We0D4_LLRA-cYuEn6dvN-3-Idq3FbD9XYLyN6ipQWo
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC53naD69TwWtm4ReFF932x7FGbG5d6GLanlNY3MwMoiYxxXyloibxWJoblAxmjTxpnkiieUnDm4kaKac4kHVkboqX-d6CMdyPwEjORx4FPLhhiEEm0cxHsyUJUfep-LvA5xSYOIdpbZ2VJwh991jNkMAJZfQPGZsllY9F_sNGL0MQy13r3C4l4YUD6oj2QsDGvxk7PE_I0ctTErM1_JY32B3qoYW43i3r2NOQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC53naD69TwWtm4ReFF932x7FGbG5d6GLanlNY3MwMoiYxxXyloibxWJoblAxmjTxpnkiieUnDm4kaKac4kHVkboqX-d6CMdyPwEjORx4FPLhhiEEm0cxHs
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC7et1NGBJXBQDMBAyPi1sjR4mOc6xnFczLuL-ivaMsFE-7HOiOw1n6DDW4cX8HAfC6apf0JTh1d5saOUExmzkluxRZ-s5LZLL0MKukNdkiDinhOajKc5H8ZEl0pJfy-s7AvJfbYwjKAZgYdnafOIeYVeIVxE3RYt_yHt5DPGGHlreOiVkWZ0678RO3kCb0k8tuHwXPE6RWj8G46Uo8qIzQ6qD3K33PqplgYYo=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC7et1NGBJXBQDMBAyPi1sjR4mOc6xnFczLuL-ivaMsFE-7HOiOw1n6DDW4cX8HAfC6apf0JTh1d5saOUExmzkluxRZ-s5LZLL0MKukNdkiDinhOajKc5H8
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC8PbZ4YEtC4Hu-LTPJY_jnk1mhR-30Y_bmpdgI31nmc-Zn2DMClfQn7WZ0uE_3kLvUlruTbK3laXkWczHlJ4D-QRYSJ1HQaq7uvZyvdKyGzpfQbsYKNMmCb_7NcIFNwP3peLD6pQFopI1q1UJHAwk9at8hjIVjnguU_aclwauW0mIMIuDxK83GOj1laA2OKXVsiqA81XvT6WkqRwte0bZgRsOZD0PDmKQFezc=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC8PbZ4YEtC4Hu-LTPJY_jnk1mhR-30Y_bmpdgI31nmc-Zn2DMClfQn7WZ0uE_3kLvUlruTbK3laXkWczHlJ4D-QRYSJ1HQaq7uvZyvdKyGzpfQbsYKNMmC
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC8uIeegPdctTudf2mIB4NMiJoT6fUqWV26R0hqBTTbi5FH7QvtCBaUqetaLXNps2TlwlZWkzPexyKMyuwNQ8kQokp0Dz_cXjcf1PfIMBQFuMjb3bP8rxaxdyhFGfYYv9yQN0Sse2KRVa2LMQiccUM-8E27qcKLXKqZJULwQxj0YsU-7PjQNuB76T1uJ7lW2_HiQzwoBxqTFW2M-8jYqz366EFB8o3oNg=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC8uIeegPdctTudf2mIB4NMiJoT6fUqWV26R0hqBTTbi5FH7QvtCBaUqetaLXNps2TlwlZWkzPexyKMyuwNQ8kQokp0Dz_cXjcf1PfIMBQFuMjb3bP8rxax
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUC9WrrgGS0sXi6gntWbbjRytSOJnd0H-SQLusG9m1h1NUR5A9pClwLC61bg8Z2Botjh3FrkCqNRUA8QXCy_x_5rJezFiSFyjUi7-IZkbkvyY1JkGE33cE8LKg9Obq_zlV62J1dmp9A7VahKdtU_Q-ET7EnnkUT7u5aqESkzlY0Qo-akP89SIhSmu2s=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUC9WrrgGS0sXi6gntWbbjRytSOJnd0H-SQLusG9m1h1NUR5A9pClwLC61bg8Z2Botjh3FrkCqNRUA8QXCy_x_5rJezFiSFyjUi7-IZkbkvyY1JkGE33cE8L
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCabM1USc5YdHL7TdpxigPcFEKBSIYwUrBwFOeT7VfvWRy2A8T6ql_Tknzhjcx3-8jWtOXahL0U17kWuqaEINadtjz97D2oOhGKn_CsW2iH8eWxdKXLHohwA2SsQHSw4BFQUPuCHKolVndAuUdOHJml6suFnlINROpU-10JQ0WsKav9M0vGNQ0yUUxeoXlkLOW0mFc_t0ddccqGotNGPJ5O_utohTPbjjn09a4=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCabM1USc5YdHL7TdpxigPcFEKBSIYwUrBwFOeT7VfvWRy2A8T6ql_Tknzhjcx3-8jWtOXahL0U17kWuqaEINadtjz97D2oOhGKn_CsW2iH8eWxdKXLHohw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCAp1s91AXgH7cqxTj6aulx8POzoZTR_Ch-SCtHLHZMj94XZM3fcDMY_Qi2eZoIXQ_KsFKQcDjNU-_5WqCZoExWj7AwSEqOcIfgcHMRXXin0is-67GrWR1pWO8jWmuuAhmdANcFEaLH6_myPqYPf3fuWD-tZXH6pceC9AqJrBq_k-a3bHoCNopF3T0SriGgVE282L6miFUGt47KiTsPf12YjgFzfzaCH8Wt=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCAp1s91AXgH7cqxTj6aulx8POzoZTR_Ch-SCtHLHZMj94XZM3fcDMY_Qi2eZoIXQ_KsFKQcDjNU-_5WqCZoExWj7AwSEqOcIfgcHMRXXin0is-67GrWR1p
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCiY08z6_e1a4Gu915loNkJ3W6DkBP-0jtfvhs3FTJsupgxOTYforEyMlOFwrKuR9M3vHkTnz7uknDRtINTtubTQbi3rHNuD7vMmJar4aOEAL_1cCT3BefAewW8m1zfHYhgPXWRXPAaQCqyhJchChlkVTuvvJu3pIpQi46ubqJfmcUSKWf6zSqQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCiY08z6_e1a4Gu915loNkJ3W6DkBP-0jtfvhs3FTJsupgxOTYforEyMlOFwrKuR9M3vHkTnz7uknDRtINTtubTQbi3rHNuD7vMmJar4aOEAL_1cCT3BefA
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCliJDcCW8TaFgl0J7rmhVvzcZ8nwKYB_8KBy_d2rf87JG9Jlz8QePPjPHcQM7Barejr5G-cbnLIPCSP4yWxj8u7uXj-POtJaROTtl7R4R-nHneYMiMczhu_8NTHkfELjJQLiWR1bfDnbCny2S0gY-y806uTVLFbxd0dD1DysKMdMFOZLCUfD9eKcqtEZ-HwDpKoe7UWTcB3yxs-M_qFORvQqopg1kYiWyI=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCliJDcCW8TaFgl0J7rmhVvzcZ8nwKYB_8KBy_d2rf87JG9Jlz8QePPjPHcQM7Barejr5G-cbnLIPCSP4yWxj8u7uXj-POtJaROTtl7R4R-nHneYMiMczhu
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCn-LVxmC6ZN6kMpZ-I_ngT_A0R-kWMb9f5TG7hHpy04ERQcO9q2I57M8t3eGCiN-ppVMO1m6YNQEQP-Edt4-GhFKJL9RSvI2Q0ZiVEaNBsooUrjvWA1JV0Q6NxdtoawTW_DdkjiHYUPUSEyrBbGe18O16VI1IW17WDyb6A82BXRIpT2bgc6DMf5YHdk1kGFQpk7aM7XExVj9rCbKLo_nEzpsZz7b8YEeunwzA=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCn-LVxmC6ZN6kMpZ-I_ngT_A0R-kWMb9f5TG7hHpy04ERQcO9q2I57M8t3eGCiN-ppVMO1m6YNQEQP-Edt4-GhFKJL9RSvI2Q0ZiVEaNBsooUrjvWA1JV0
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCpArawbgpbvGEaWwJSlYHbs24TrY6KEp2zr-GOetWwV7iu7Wh26m6CC2IY9InH-QdiplHDX7twew_mpu9EPfQsH9fH1i2hpD9weRh1ADUNVWeoFpc3oNiKD8uV7MEtUd3lnPVHxar9MBOlSXzgIp7yMZIj_Bj1ATpKG7EQdInscXv8tZjAcnFZ5iI=w16383
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCpArawbgpbvGEaWwJSlYHbs24TrY6KEp2zr-GOetWwV7iu7Wh26m6CC2IY9InH-QdiplHDX7twew_mpu9EPfQsH9fH1i2hpD9weRh1ADUNVWeoFpc3oNiK
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCpLGEZM7PHaxHN6MeRRGa8gUQ5J9vnEsZzUd6UGqW9hWR4zYXTCkgVMbMRbvTIB7kZl6yM0zfhGRH1ySbhCCN2ZCWxFuB3_xAEqW0H0wXMYBbWK3rvlPBH8ZUNaFFahYZ3NulJnbnJ2Q4VrZwjjYy9q_wktW-1Z5CNxH6UV4SmaejdoIo-iRbZM816wUuQLONYcXwrZpOWQ1RnMmPC8H2NLzdyFLtrFegUNMY=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCpLGEZM7PHaxHN6MeRRGa8gUQ5J9vnEsZzUd6UGqW9hWR4zYXTCkgVMbMRbvTIB7kZl6yM0zfhGRH1ySbhCCN2ZCWxFuB3_xAEqW0H0wXMYBbWK3rvlPBH
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCPoNek-h3HU1gfpSUEvD-qGRNX3B2VJkPee3aah-a3XbKiV8qGuJ6s0LFd1643DiMIGHo7kjI27X-UmM5oylB72MzcqXgG8XubOcIZ45JDGPnRHr8ZBBkROSu5nrbyMksfqnJ1sq_pFcDtPE8TDzYs-Qu78TcZ_yG_s62HvR49YzTx5iOjROZH7V_LHiIHU1iRQZS2-JhxjH3l-xG0ZeOnB2v5qclqMM4d=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCPoNek-h3HU1gfpSUEvD-qGRNX3B2VJkPee3aah-a3XbKiV8qGuJ6s0LFd1643DiMIGHo7kjI27X-UmM5oylB72MzcqXgG8XubOcIZ45JDGPnRHr8ZBBkR
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCrVo1Ok08npwKEgXCsmXS2iZYr7oO8PxqEyndvKYHcE8JgLBKhZwpqPzaZReniKbCB3hoHDjrQW0dEQc7ZKuNDUCOfVsJ6cxZvDf6QY6qo_A3P3tEnt6yfw6ixwiGtLpkfTlgTvByYBzkO6j1IcOHODebzynN1ez1aTS66TrbiCyBaGLA4HZksAFykHVa8L95OFNz2jUkRgdSsnwGY3lNUfXyf76oFB9JTJPw=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCrVo1Ok08npwKEgXCsmXS2iZYr7oO8PxqEyndvKYHcE8JgLBKhZwpqPzaZReniKbCB3hoHDjrQW0dEQc7ZKuNDUCOfVsJ6cxZvDf6QY6qo_A3P3tEnt6yf
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCT-6KSmjnFiaF_Xlt3NiQkEmnAEo3Ntgpr6MhONbujD7zSDS-Ha1LHiRdUS_1kOogrRCcaK_dDfJvS3fbcsMhWtj9g0Od9B8lk6kV7vVSFPq_jGRUCffGDgEieZjQsxLZ5ZnKD1lrQOMOr27Nug5fR1YUC2m12cIrJoJWpmmOt_Bk0T-PZljK3sFGftP4tXgZqZbPKYgcb4Qn-pSYvGQIljlnX1rQ0qLcfW7k=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCT-6KSmjnFiaF_Xlt3NiQkEmnAEo3Ntgpr6MhONbujD7zSDS-Ha1LHiRdUS_1kOogrRCcaK_dDfJvS3fbcsMhWtj9g0Od9B8lk6kV7vVSFPq_jGRUCffGD
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCThKX94kbN-tl0sWTz5bsyneOjvrCzjOsc1IWOqD9Q6ZV_VH_R-Oxse9hO1M8SQUtDX2N1Ew34H_L0jrOxRlpTXxaBFVN9tIbZcXq0kJlEISQx1iOro_hVgBMKPeT1l-1ZBdhP1geQvVMMSpoCic5gwQpf5CZrXJZQ1pxrY5woJazcxfHiyl3SL7EQUQ3RNIKLTbPj2Rm-97vz48dNgRyRwPXzN5am9y9XgQo=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCThKX94kbN-tl0sWTz5bsyneOjvrCzjOsc1IWOqD9Q6ZV_VH_R-Oxse9hO1M8SQUtDX2N1Ew34H_L0jrOxRlpTXxaBFVN9tIbZcXq0kJlEISQx1iOro_hV
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCUaHbSb_l-bHUQUeuHBO5qvO9-fMjanwLxT_zfY2x11zdsJp-_7VNbpm3o1fBw5xhdrTy0xPwP139YX8omotakIkSoi8b0jx7U_aigwSPBzxfYP4wHbEqPFxSXsoWhvqjS7GZOy1D2xtGZhRRUlHk55SDINo-R9fhR0kZNPq5gJTnccw7MxGS3PG0gdL5N_Hf50FRRrbPu8Hnks66OlrWkZi-AElxp1U9a=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCUaHbSb_l-bHUQUeuHBO5qvO9-fMjanwLxT_zfY2x11zdsJp-_7VNbpm3o1fBw5xhdrTy0xPwP139YX8omotakIkSoi8b0jx7U_aigwSPBzxfYP4wHbEqP
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCVBlE21YQkCBL_Ml4fW5cm5ZkNyORDCDu2oxmXGlzck7lqFHvT35fWlP_tb6Zbowb2LRXXrgkmUNvfoVslpWYo7WGxOaXWVYWO4eGhbdXOO2wLMYQQgYgygfdNttsuttRmeDCOAvPQSl0qWJTFs4BRwcPz_YIrcVcgu5r0BJK2hJLqTHvhHynAyFYtiwZNCNadgjq9rSPQ6TbIeVrUQ-Bz2uWDfjpyh1bn-EY=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCVBlE21YQkCBL_Ml4fW5cm5ZkNyORDCDu2oxmXGlzck7lqFHvT35fWlP_tb6Zbowb2LRXXrgkmUNvfoVslpWYo7WGxOaXWVYWO4eGhbdXOO2wLMYQQgYgy
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCWOVRiT4C_O9t_bGJ87fYDVrDrIYqU-Mv--rOqUYb4YTSC-5B415UWGpocKrzcZMu8xJWM5XMsFUMtf7off5i1ZrJTbPpTajfk9HwH1vf19gbPFn_I4M6sxe3vEmwFUky76AXdCrGMv_XTvA1ZoJeZcPFB9ke0yZi0LSLCgY5Z5KSOmYi2jxwnTt-blwIgcQEtmN84MFbVA_hhuAg-K8i3ygEl6pJwE_9khy8=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCWOVRiT4C_O9t_bGJ87fYDVrDrIYqU-Mv--rOqUYb4YTSC-5B415UWGpocKrzcZMu8xJWM5XMsFUMtf7off5i1ZrJTbPpTajfk9HwH1vf19gbPFn_I4M6s
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCX0QKEcPkSGIYKHLT80RL8LHDN9soqTP78ATscV1wZwNdxGa-tWaji_4ubxFfxC6Vphs2xL86ioss_WjWKmpEd9eOB1JbfXmXyEhpUfZph_FUzzNKMwZkf1gPgsc1o8t0nroaa1K5OYmk_-m3CKxgCnp1wwuOXnolxM5JgHAQT4SidXu5qmpMQoz1b959q5wPf6TNkUHAng2nMZdthpfIntUgTduGZWpljkuQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCX0QKEcPkSGIYKHLT80RL8LHDN9soqTP78ATscV1wZwNdxGa-tWaji_4ubxFfxC6Vphs2xL86ioss_WjWKmpEd9eOB1JbfXmXyEhpUfZph_FUzzNKMwZkf
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUCxs24ldR3TxTSrIR5geeNPGru80E_RgBFVPjLEstTXM3DS5kYjAujwGNbN4tKqWeXa2N5wzj-Wns2vrxNoF2w5ah9OHZmVV2umuMVaWZHxfcRT87SpLG6z6DEeqfvShzyHLp52bu9tku1DYS_O0hgmb7f12M_rDUhKtyuOuQvTpQx6Ph54AshwCV0JqrDHQxQngmoXDBIXRAWmBKAesmqbaPKOonKJl_Yb=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUCxs24ldR3TxTSrIR5geeNPGru80E_RgBFVPjLEstTXM3DS5kYjAujwGNbN4tKqWeXa2N5wzj-Wns2vrxNoF2w5ah9OHZmVV2umuMVaWZHxfcRT87SpLG6z
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD-ue2Zvg13qvQKziO8JdQ7wIyxejptNSB6YfkOcfHn3NIdXQkE8HCSSshwTQt135_DgTVXkKbckjEyXIn-y_JpSwf4hZaAiCUe51i3hBd--OT0cJmZoZ4-ZS9lnrohzpN6q8WaELS4jpBNw1yE30Wn2bCQRvzq3qepBaRHEPYkJ3724yztvm92W0ogFU3GekF44hsrD8hKjS7zszMJSe_mPFe8uCCTtg=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD-ue2Zvg13qvQKziO8JdQ7wIyxejptNSB6YfkOcfHn3NIdXQkE8HCSSshwTQt135_DgTVXkKbckjEyXIn-y_JpSwf4hZaAiCUe51i3hBd--OT0cJmZoZ4-
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD0QDwJ3S7raeujCT3q_t91HLAieZePmltRWd_ksFxv_Bz7rlbl-M9EdHZiWaE-GkjbxyUKgYpmS8fduZj07PEI0-q8hQFgykEsMb-c-haFjVYhxU0npyDrtYeQS1R457pyJE8wejVmyCH-1KjdS8Zq01_4WuDNd1VUCw0pa80pNB9WVwFRfSJ1Blwvd4KJYxBfYLy_BO8svtSD
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD0QDwJ3S7raeujCT3q_t91HLAieZePmltRWd_ksFxv_Bz7rlbl-M9EdHZiWaE-GkjbxyUKgYpmS8fduZj07PEI0-q8hQFgykEsMb-c-haFjVYhxU0npyDr
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD24zbo3jcf6NizbE7Kmtws2AUkCBPg_AEXM5nC8FHD-r7YIVtbfaD-fiJQXeHG89k_JPTnV00p-ikznBKCOWKCnpRahLjS7lCc1aWTqi_P1_pL4g1GclpVnJAJiJTgmbeWURXK_u4_-NZJBmSbzutrpp_G4aBM71X4XymxrLUtIusAXBMkSLMBNlYTTTZ7jORK2Hgu0z7iXefc3he6vVR1-Jtj6GPnRIJy=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD24zbo3jcf6NizbE7Kmtws2AUkCBPg_AEXM5nC8FHD-r7YIVtbfaD-fiJQXeHG89k_JPTnV00p-ikznBKCOWKCnpRahLjS7lCc1aWTqi_P1_pL4g1GclpV
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD4PcBbdrJPYVvQ7ih7xKZq8E7sIuFFvETDtiTLNQ57OnNW9V9wMArdMgknH4jncqVQN2bjtIFve-n0hjalWhxwL8fYhbKUBXxLXetrZfI33v-z7J-xfiqvHOTKGabElheG084_eysfsOnEwIGQXY8MekJgDYzKnbM8Zyh9lmRtfGbamSJRumy65kjj_l-PdOHqWUNsVDy--ZKMePDNP-5U6GgC_P_mQ2weRqY=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD4PcBbdrJPYVvQ7ih7xKZq8E7sIuFFvETDtiTLNQ57OnNW9V9wMArdMgknH4jncqVQN2bjtIFve-n0hjalWhxwL8fYhbKUBXxLXetrZfI33v-z7J-xfiqv
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD4xeQmaSUDPZ2voM9CbJO5kJACFqtK4pWJmvNNrbyGQZEQ73K_EkDpFWVsY2OuWg3G_6bQZfrg_l3lvj8da9lJFBG9savpOKgFKXHZu-7S_EuukPOS5C0i_GNvlbztZxecnqOKcl0zfk1NkwP1MdfEd8njdCqidZwY_AWkXFzemK8oEhctjGYWaFTcBqr1Z61X37gi0ZMsXSUdoFyHysaN1WM6VSBtBxn8=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD4xeQmaSUDPZ2voM9CbJO5kJACFqtK4pWJmvNNrbyGQZEQ73K_EkDpFWVsY2OuWg3G_6bQZfrg_l3lvj8da9lJFBG9savpOKgFKXHZu-7S_EuukPOS5C0i
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD5HgYFH7nGFZObvi9nO8wrkwDH3kehOv9lhbPRKOcVK04dhT0zPUxNeBkcefljR46ruLnldwKrekXNAOb4nljkEwxKRhGnO8cTmBjp0klmbTRUBTjxqp7oHCKVT6AhS-zhykVmD9UMq5cVwf2JFUB9vOxJ-I4OWKQwMaZyIqPmkDz8OJB6a5M-0eTScdhwb4sWS3d4Uqu8tOP0nMIFIypbOnXy_A4jkI7Dpw8=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD5HgYFH7nGFZObvi9nO8wrkwDH3kehOv9lhbPRKOcVK04dhT0zPUxNeBkcefljR46ruLnldwKrekXNAOb4nljkEwxKRhGnO8cTmBjp0klmbTRUBTjxqp7o
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD70AxN30wrvbZcOxU5PJg3lMVOR4puVUI3hUnIDyL7Ts84fa092d2I5vhd1ZybRRA26-cad1iDABzF1frBWke8qEEZFFOXyuPnJc4xvkARdudZikJjUrS4e1mVJlwy39GL4gi8QZL-Xkgje2EniRqiSTK6sZ1n9jqcseoenc4Y7QV9XSC50P_iEqXdSCvaTh332oqQDNdAnBELLuU
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD70AxN30wrvbZcOxU5PJg3lMVOR4puVUI3hUnIDyL7Ts84fa092d2I5vhd1ZybRRA26-cad1iDABzF1frBWke8qEEZFFOXyuPnJc4xvkARdudZikJjUrS4
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUD95Ti5uUsi8yy-vx_-WEzqswbKS9k4pisb1QHrTjxUKI1LH4Ek6_KQuGQdvxZrEK5QFc9W6KQMz6sZL1NwQHJl277YT7v9QxjKEBOof1RMOyxxBnfYNraw0bUBUtbgEbxlQz3PNwlhtXyzGfaz3ezKK6SKrPz2SM9SAwULKW9pAPmxfnmT2owfUWSbe52nskpC4cAujYoTnkDr7oUmbB1SlUnZ7EfQQusB7vU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUD95Ti5uUsi8yy-vx_-WEzqswbKS9k4pisb1QHrTjxUKI1LH4Ek6_KQuGQdvxZrEK5QFc9W6KQMz6sZL1NwQHJl277YT7v9QxjKEBOof1RMOyxxBnfYNraw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDBlPS_1g8AhAvXdepBF5zMySBmzU9pvTrcPcNsWizPMMNJNxxduQHuIKyfyjxGQQjPyOgLTm__VXG4LuxyRoj4b7cbFdgZspIinvkCcNZ3op58rBe-3UJx4bd07OGwhuSCqhtSi6a-o4Ipy2Mn07VauZvgdJSeZOwgLBMcwHLLqZxzh2_US2YWvim-fX5ZV2mXPML4LpU7iF4VPbFEgQL-rUpzQwE89Y9qdMc=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDBlPS_1g8AhAvXdepBF5zMySBmzU9pvTrcPcNsWizPMMNJNxxduQHuIKyfyjxGQQjPyOgLTm__VXG4LuxyRoj4b7cbFdgZspIinvkCcNZ3op58rBe-3UJx
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDBUcR4aA8NBeP3sXSx5D2sodnVnInwA46AlVu2Ag0GBK5HyaEBiL3YJoZpyOYGvbPYo6NPZnbXwdtjcVeFuEiuTKIevn17wb29bejc5FpJ3gkSgyvbjv5tD0qk_BUV29nMBaDa_RiRwAfZU4Fmijh8vYoylh3IeaL0_dAxqi1JWQBEkEWalDEHwouCYAJXnC30kDe1WpMmzYoDmzKur6C7is4D9tispW_W=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDBUcR4aA8NBeP3sXSx5D2sodnVnInwA46AlVu2Ag0GBK5HyaEBiL3YJoZpyOYGvbPYo6NPZnbXwdtjcVeFuEiuTKIevn17wb29bejc5FpJ3gkSgyvbjv5t
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDBzaBli_qDtc7Ph_khZg8dfmsQanm2nlRPUo3sv2GXqTVwXuurLZy6AMUs1NNNc0AzNTUlTZThEdxrFYHF2fhfxKwi5-pT428NEAtWZbqP-Ub44UDXBZeExdUucw50orJAgR8k48THqfa00P0sKG8IRUF2xyzmpnMDwbQpUOkc3OePROYjxkLOB72BbhWxt4zFihYk7za7kpSbZ48biliBw71soB5Ph9LnVUU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDBzaBli_qDtc7Ph_khZg8dfmsQanm2nlRPUo3sv2GXqTVwXuurLZy6AMUs1NNNc0AzNTUlTZThEdxrFYHF2fhfxKwi5-pT428NEAtWZbqP-Ub44UDXBZeE
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDcyPk_YbkrNgwdafopJhv-nCRgWuwPlwuTvU1of4t2iLcSIGBtk5X3HMDoOb6LSCScSgS7IBPQWCwvl3aaV5sndzUvoBumFGNsliepueYmef-0erWeJfecm-x0CTeMDqpeUW6rgXTeTthmtv_zbCbDF_rzDCoUP2M6qauOFVLct_h_njHF_X-gcLYJVNphFEs_s_0J1fnxaWPKRDxzKZiu7d-402V3MCqolgw=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDcyPk_YbkrNgwdafopJhv-nCRgWuwPlwuTvU1of4t2iLcSIGBtk5X3HMDoOb6LSCScSgS7IBPQWCwvl3aaV5sndzUvoBumFGNsliepueYmef-0erWeJfec
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDdFE_WLBOrR1aN3K8DzFaus-zyDmlb7aLH1X8Nb1Ur3UlZeaKOZm569TpZcv0c7iz5iYHWgTh6OvRk2fiy8pKBGXjvg3G4X3_MEgD6_6JpUNmbiZ-I_25JA49Vuh7mOtDjrBYfdv__w9s1bY4nEHwNGlnLNh4HmCr6qz8YBzjaYGoEGQs9j3MR4idrdbK9OBFDBbAsKK1UZkaYHJ3yAOlOxIOAIhajWLkc=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDdFE_WLBOrR1aN3K8DzFaus-zyDmlb7aLH1X8Nb1Ur3UlZeaKOZm569TpZcv0c7iz5iYHWgTh6OvRk2fiy8pKBGXjvg3G4X3_MEgD6_6JpUNmbiZ-I_25J
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDdOuIre-WmPiw3ArHjurH2pNMXuo6FsTiOHEXUbHqfwP7wBop7nPvNBDU2E8VKjEseQ13Xy3gV5RAVG11wKuSd6EgpfKV5UDf_Dpna4Wl-3620drS9Hs_LfnDuVXk-CHHqgGPdULQ32Szo51GgGvW1hB1gB1UuFZLEI9tXZRm2gAMuiLMoZusQnScIUNXi3H2bgem8Xzul8YFVSnSxxlCUZieY2jk3Of95=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDdOuIre-WmPiw3ArHjurH2pNMXuo6FsTiOHEXUbHqfwP7wBop7nPvNBDU2E8VKjEseQ13Xy3gV5RAVG11wKuSd6EgpfKV5UDf_Dpna4Wl-3620drS9Hs_L
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDDTfmBg47iv3daeHEr8f8C6QWmuFpRPIs_yGltV_9BX5cK5J0vYw_vNm_z_Ys23d0iiP9IOIpl8x3QD_TPMKwUjnpq--hfzPz8lKPZtNdwA2IohCIxWrLDt4dww3QN34Ndnbzs3rlnTth8x_F5flHrkuUUK-xbf8EkVDBkOOYoynSAezB_3kdLiHQ7mrICPEniq8fVRem3h2eCkDR7AiKdKX0rf-6DYj-qpZQ=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDDTfmBg47iv3daeHEr8f8C6QWmuFpRPIs_yGltV_9BX5cK5J0vYw_vNm_z_Ys23d0iiP9IOIpl8x3QD_TPMKwUjnpq--hfzPz8lKPZtNdwA2IohCIxWrLD
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDE1dZauVFfo8-h2HsXx3NHTxJD9zWJ9hL8g6morNGbVWpyiHeHJn2hrs0VJ2FnAyk5sbtMHDHH8fE2xvJrH7k7QuY5o_9gpT2FqYfDqYWRLQbRcY0zKqrEL8NpFRST5YLMeFsoZpMFFoZIIMMmsZroewqh8rKrQ85HRiEE2tUks7HMRBwMb3800Lwmgno5QByYBie5ukhqSgvXjatfiDZBcZMHzcAOG4nu=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDE1dZauVFfo8-h2HsXx3NHTxJD9zWJ9hL8g6morNGbVWpyiHeHJn2hrs0VJ2FnAyk5sbtMHDHH8fE2xvJrH7k7QuY5o_9gpT2FqYfDqYWRLQbRcY0zKqrE
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDeedTrwFQMPbHL-HD-_BAz2fs2TsMudiTfbmag3JwTjrJn5HhpRWh2mgMPMZKNeItNewh3IqcCA7S88_hV5N8F-uEkWfbxLbAN6JJu04us999rYV-FSo2NaqpixhZBYU2z8RO-53t5LGnmw6liT1heGyqswWArXDbgGJLGVBof33GAr-ErSLp2BocAq-xaAdCI7eyUHx5A-xedgKTHu1gVbCE_8fydKiYf1F0=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDeedTrwFQMPbHL-HD-_BAz2fs2TsMudiTfbmag3JwTjrJn5HhpRWh2mgMPMZKNeItNewh3IqcCA7S88_hV5N8F-uEkWfbxLbAN6JJu04us999rYV-FSo2N
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDggBuv9-ycW7BiQyZNVSocv6LRvCczwv2GygN9jRZPW3ckVta9AMYpkikRaa36Ibe3gt3BJlB1k7bjg2N871AKzsESl25cUgQf_9lAZwX-Q5t7-Bkdv0-82qQSmSkAQDOyQphIXubJzHn2F0DNbW0-s2k77iaLGy5jvyJQT4XG0fMc6sHM_H6kpS8=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDggBuv9-ycW7BiQyZNVSocv6LRvCczwv2GygN9jRZPW3ckVta9AMYpkikRaa36Ibe3gt3BJlB1k7bjg2N871AKzsESl25cUgQf_9lAZwX-Q5t7-Bkdv0-8
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDHElHPlpijHWL7j3Bod-4Xu5aJm1_CdkPIQztIo3gQcPiT0TRuWZ-3o0b0GkP87LmEwzQ72l2E_usS96D8RMMme7zt_CE1sKAdb8UBtjHTjd5UDpQZ-I7Tc_euyscHPpBk1R7FO7S_nSMPtpnXmDpYE9ljaSa3gva1Dj16tQwtiTyoRHmMro7FuWw9scFypGuzCmwnMJmFYLohBo_jwUbS6S3BTjvjgYoVm_Q=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDHElHPlpijHWL7j3Bod-4Xu5aJm1_CdkPIQztIo3gQcPiT0TRuWZ-3o0b0GkP87LmEwzQ72l2E_usS96D8RMMme7zt_CE1sKAdb8UBtjHTjd5UDpQZ-I7T
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDHi1A91JXAqKt3OxbstYcW_VCKagB3TtrgC9aO3iAIaezGfQbmAeB7bskOAytWvsyGVb18GT_AW5equdOJ97LkhOVpaoDJrC4pxC2cLkAKMsRh-IQHfQNorQAeXz9Gd45z3TzuJ8w6hWsMyrosPWafF4sGc5ei8fJ3zi9wDhAZmX-FbvcYhMK6RW0X_4DI2tnerNm15UlKGrT-g84Pt676gpxp17N7ecLeAkk=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDHi1A91JXAqKt3OxbstYcW_VCKagB3TtrgC9aO3iAIaezGfQbmAeB7bskOAytWvsyGVb18GT_AW5equdOJ97LkhOVpaoDJrC4pxC2cLkAKMsRh-IQHfQNo
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDiOyXbrfmqi7hQNFMesDfG0jFq2yG5o3sALYMYmWfv6liXge3sob__dP3AS3JwxNZ-Q0KsDjegIJRSd5wIpexRsDwmckVCnuWR1eHmWFWFjB9i-fb1kh24DTwxr8qfHJqTJakElwnePWqFLEManMc4A10iy9OXanPXd-6Jk6f6n8_D7KiW9A3J77o=w16383
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDiOyXbrfmqi7hQNFMesDfG0jFq2yG5o3sALYMYmWfv6liXge3sob__dP3AS3JwxNZ-Q0KsDjegIJRSd5wIpexRsDwmckVCnuWR1eHmWFWFjB9i-fb1kh24
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDkDeeExO_q5Q28nsuQy_YtTWzeM6DVvV8Vedd7lU_40-KnrY6kKE_YDWzb0DamA5bizGN1devE7eGIlPwhZ7epgXZVUxGlyM4Y1lnXglRxlkxE-EGwgzjbrOksWv-uSdMrBYEAFlI4CvHJ21K6Xhesq3r8-qGpR39I3w_KFG4LdwwvFCHK96QepzNfk3Glak5aNNq_M8aTUz-tsQTlSKTuk9l8wymreiwKMeI=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDkDeeExO_q5Q28nsuQy_YtTWzeM6DVvV8Vedd7lU_40-KnrY6kKE_YDWzb0DamA5bizGN1devE7eGIlPwhZ7epgXZVUxGlyM4Y1lnXglRxlkxE-EGwgzjb
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDL-PO3c9bYpt1eL0vay_ijCxBHOlWmH0c1ZrSAsPo-j3bxef_yDLvi4S6AC2_swggBeeF-Bg1wnIaV9R0rdQ6ypW0wVAoNgnn8iHGRJQEEoGXrw_Nv1NcLWjFS4v4E8juft1JMieJFy4UOGnXJOSYg-7M-eX6KgWvCxRCXZdhyUCoLo5Ftawq8rkXLNIfA_gt-FmftGdfPY8mNVuVPNYom3NJQmW2FroR4hjI=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDL-PO3c9bYpt1eL0vay_ijCxBHOlWmH0c1ZrSAsPo-j3bxef_yDLvi4S6AC2_swggBeeF-Bg1wnIaV9R0rdQ6ypW0wVAoNgnn8iHGRJQEEoGXrw_Nv1NcL
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDlF7Iuk56fXG5K-oUpMRUXPh6C4nIWvpSmGDA0cvwRpeHVXdoReeeMSnhPTTJ-g2owe4RVIyBUtF7u_5Druhjru134sLFqB6XcZVQ9P2vOBFmA5N9zrPkRJljQTzq5NnhOlk6VuwbicjoEkymamTlgi0kYamQRk8jyLG5tZTPHiCB7DM6DlIswAE0X1XT2bvEVGItZWoDsisE2kWSwuov72TJBDUQ93bn5szY=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDlF7Iuk56fXG5K-oUpMRUXPh6C4nIWvpSmGDA0cvwRpeHVXdoReeeMSnhPTTJ-g2owe4RVIyBUtF7u_5Druhjru134sLFqB6XcZVQ9P2vOBFmA5N9zrPkR
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDlip2E5iyhdQX3vUeZLBEvUTksdtzkrA2KHu6r-ed3RCENhavQHlt6YsAQoD_P1VkhQD_7ttnKXbtgFUdru7s-ME6fG-2PSaqnTPk4PerGm20lTsTpLGbGMuYFuIJFbySfNwj97gLfjsoc_hGclWBvIBPctKmqvveykzEkx4yDJY_xdd2EVLpqUNCxCzU4zs56d18K8pUhyIMuiaF85cFCmi2VM0CASFvCgqI=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDlip2E5iyhdQX3vUeZLBEvUTksdtzkrA2KHu6r-ed3RCENhavQHlt6YsAQoD_P1VkhQD_7ttnKXbtgFUdru7s-ME6fG-2PSaqnTPk4PerGm20lTsTpLGbG
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDlZea0eqOUPIngsKjwT8cGQ-kkbgUj-OHD-mrhWyv3B1oNN8TG6tI71h-vjxUpuY38fTcvb30vwPNR3njcIiTEx5wCC9V9ajsgqTbKkeH5a9NcF1ZdhW54XKCvKIKfDwMalgbd5Tqs3Js09_f0tI6QqGsxvF_wV2fowVum_ZdEujIj1t8akZ3X9WnxfGGyRE1rU_ZoIbdWjRYV1pt6fXZXN2sbsaoirw=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDlZea0eqOUPIngsKjwT8cGQ-kkbgUj-OHD-mrhWyv3B1oNN8TG6tI71h-vjxUpuY38fTcvb30vwPNR3njcIiTEx5wCC9V9ajsgqTbKkeH5a9NcF1ZdhW54
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDM-JDBAYyre5AL7_z8AuwpfG-LvwhUlGGLnwQQnYbciPXDA-ukoNwKLVFMNIsfuoGtohE5Kjk8J39JQlAaXrZOkXU14A_7kvfRssdE5NlyymukXuM7Ryj4YOnzFgDYnEeG5Qn2NOCsJ8rCle9mx-dPKj_w68INunCr6Cm01PVIxZgSE_IS_sW73dE=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDM-JDBAYyre5AL7_z8AuwpfG-LvwhUlGGLnwQQnYbciPXDA-ukoNwKLVFMNIsfuoGtohE5Kjk8J39JQlAaXrZOkXU14A_7kvfRssdE5NlyymukXuM7Ryj4
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDnbB3QavBcIajWdUrBIOL40hYWRryCEEPSqjHHVKZyXr_1Vjlty6qWk7ohcw4dM39LfJ-a6k48akAajvsXxLan2AyrysCiAz1pXGZM2f6wxJjmX5yNNAfL2FXOZLf3VyZvr4BAtcR31r1hbg5fv-xuoW9oOsDWiEDdFkzaMgU4PyWAH40Lxz4rxqctqaqeGOsHWHgBJrvXanVQfPRaFDlIgvXOci8h6I_t0LE=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDnbB3QavBcIajWdUrBIOL40hYWRryCEEPSqjHHVKZyXr_1Vjlty6qWk7ohcw4dM39LfJ-a6k48akAajvsXxLan2AyrysCiAz1pXGZM2f6wxJjmX5yNNAfL
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDo4C0eU2U_aNv1AumDAoH1r0tfyywXTp2KF_nWDBxHbW052c1yOppELSbiJ-Gu2ImgZLWHEaJmfSCgJGmhEe83eGOLpfeSFfTE8YyFSRzmPzN15ZuX2NCV5vXXtS4VIJfqK5ZyGUZ5PM1xYzEXzyIBu7HF8EJdIIMFNTFww83CFHLCi8MOdghm_egsRJz7PERauB9xphqo8WGfS0SFxcx0fC0cILTSH_j_=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDo4C0eU2U_aNv1AumDAoH1r0tfyywXTp2KF_nWDBxHbW052c1yOppELSbiJ-Gu2ImgZLWHEaJmfSCgJGmhEe83eGOLpfeSFfTE8YyFSRzmPzN15ZuX2NCV
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDqw722I06MAQ0vsCln9MVQdFVfxlUkNgP6iii3QO6cwt84mdMAMisVipfs-dTeUMOi6FzMOBPXDuP9vg5sbFlTmvFndLkOLQrRkG1KrHRMXmfd7yvjErF3rgM5Bn6RHl5cmZ_uw5Q9sWUUBS-U3QlgNmFtAcCTjFfPJDM6PDs0gDaP8iWVCHLKFT8hgLkuIEHmoKBatvgP7IYAy9ISltXo_cyGFcFXYXq1=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDqw722I06MAQ0vsCln9MVQdFVfxlUkNgP6iii3QO6cwt84mdMAMisVipfs-dTeUMOi6FzMOBPXDuP9vg5sbFlTmvFndLkOLQrRkG1KrHRMXmfd7yvjErF3
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDrxe3xZ7KFNJBzjQNLMFiopQ8FliDNjb3IorOP2kC5oBmETD0qFAnIeXBOlUdIiHwyNtuiTzJ9R8Y145AYrDcyh7GvzAjNPxds0nF_BgrfKcl--xzOfQLpgloBsT-eOquKULfuteo0QT9wUuK7cppUE779L5i59y4tlmd4am9hGPVw9T752McSlmqWAITvRtcpmYRbSFYxiZ0lScTcLRb4d5BG8p8xoQwR-UU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDrxe3xZ7KFNJBzjQNLMFiopQ8FliDNjb3IorOP2kC5oBmETD0qFAnIeXBOlUdIiHwyNtuiTzJ9R8Y145AYrDcyh7GvzAjNPxds0nF_BgrfKcl--xzOfQLp
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDTl2OJPDh_xWltqlbOKXW1MxUv4FooE5INuYaCmwpQGFfztDu5kTnss_3ARk-sjrLTUpvZamDXTp7eIlFQN52gEsxKOsJNpFcvp8iXgnZi_KA5K84PILhULABgELA-LPUddB0Ttp6m2k-FAMUL_DjRMVCM9JZMlHMfas9cY7J6QpzuSpTfKK2KQxbmXJtsApgYTp0--QEQy-bedl0DkI4c5uNma7AywJgF01c=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDTl2OJPDh_xWltqlbOKXW1MxUv4FooE5INuYaCmwpQGFfztDu5kTnss_3ARk-sjrLTUpvZamDXTp7eIlFQN52gEsxKOsJNpFcvp8iXgnZi_KA5K84PILhU
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDV4c5-LdVQkToWuX4qVbad74Tavcdvs7ted_EQzpQK5SYGheBVtcFa4tUWW5t6oYufTOsIB9I20oDk5ErpuNNmZeANc0UPDS10n9J7HsvnHqKSqcvZ6riuNm7I5yu-QwSEudq-lzmLHDGvP8mFCJK4LITpBgQLM_ZGn6-jmQ1WoPF-wmvO562QBWyBsw1xQ1HMEOe1mZQkaFF4sJh0QtRDbkWP8zhDXkKB5xU=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDV4c5-LdVQkToWuX4qVbad74Tavcdvs7ted_EQzpQK5SYGheBVtcFa4tUWW5t6oYufTOsIB9I20oDk5ErpuNNmZeANc0UPDS10n9J7HsvnHqKSqcvZ6riu
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDXfawIz9urH24p-cYRodAFD3YEYQj-mzNr52yY7dpL4oGxT3rUhRPJUUMjm681re29cPmCWWE8LqFtl7j6IcwwRngoKjFUh4CZ92ELkdntQAcS0omri5A7L2G_koJnZcwtOSt4FMMH_1ozIp9yZYAEl3LkSWzVeJDVpM2srK_BpMaFGpGU-8c7tUG_FUa-G06VaKJBA2x6Dd28gzn2qLumtyA7PFrjJK3ebP4=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDXfawIz9urH24p-cYRodAFD3YEYQj-mzNr52yY7dpL4oGxT3rUhRPJUUMjm681re29cPmCWWE8LqFtl7j6IcwwRngoKjFUh4CZ92ELkdntQAcS0omri5A7
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sitesv/AA5AbUDybaLAckTnbEnoP879EdgsvYbi3uoqJDwFnX9D_Ugxr1-gJ83wWVp3rQfVP66PG42yI5_Xblxc8UZB7JDNELCf7f7NShgOjV0TkMmrp1haF1eOaRrdXKTonTt2E8tKc5Y3t1fl2Fqft_8E64lqqrtUcEsLDEN1EBPSjqPPlATD_b-kYj11c6kAbwlFslE01v6qwOqZDKKfV53mRMdZxtu88qq7n2l2OvT8=w1280
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\sitesv\AA5AbUDybaLAckTnbEnoP879EdgsvYbi3uoqJDwFnX9D_Ugxr1-gJ83wWVp3rQfVP66PG42yI5_Xblxc8UZB7JDNELCf7f7NShgOjV0TkMmrp1haF1eOaRrdXKTo
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\atari\images\cloudsearch\icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\atari\images\cloudsearch\internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/simple-header-blended-small.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\atari\images\simple-header-blended-small.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/sociallinks/facebook_white_28dp.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\atari\images\sociallinks\facebook_white_28dp.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/sociallinks/instagram_white_28dp.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\atari\images\sociallinks\instagram_white_28dp.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite959.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\material_common_sprite959.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite959_blue.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\material_common_sprite959_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite959_dark_osv.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\material_common_sprite959_dark_osv.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite959_gm3_grey_medium.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\material_common_sprite959_gm3_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite959_grey_dark.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\material_common_sprite959_grey_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite959_grey_medium.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\material_common_sprite959_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/v-icons4.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\v-icons4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_dark.gif
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\v-spinner_dark.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_gray.gif
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\v-spinner_gray.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v-sprite19.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\viewer\v-sprite19.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v3/v-sprite93.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\common\viewer\v3\v-sprite93.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/documents/share/images/spinner-2.gif
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\documents\share\images\spinner-2.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/documents/share/images/sprite-24.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\documents\share\images\sprite-24.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/picker/images/loading_spinner.svg
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\docs\picker\images\loading_spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/s2/tt/images/play-overlay.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\s2\tt\images\play-overlay.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/activityindicator/loading_bg_f5.gif
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\ui\v1\activityindicator\loading_bg_f5.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/ui/v1/dialog/close-x.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\ui\v1\dialog\close-x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/disclosure/small-grey-disclosure-arrow-down.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\ui\v1\disclosure\small-grey-disclosure-arrow-down.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/icons/common/x_8px.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\ui\v1\icons\common\x_8px.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark.png
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\ui\v1\menu\checkmark.png
+Content Type: image/png
+
+Uri: https://www.creacionarchitecture.com/
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\index.htm
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/about
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\about.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/contact
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\contact.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/home
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\home.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects/2-storey-residences
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects\2-storey-residences.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects/3-storey-residences
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects\3-storey-residences.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects/4-storey-residences
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects\4-storey-residences.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects/architectural-interiors
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects\architectural-interiors.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects/commercial
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects\commercial.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects/health-and-aged-care
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects\health-and-aged-care.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/projects/townhouses
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\projects\townhouses.html
+Content Type: text/html
+
+Uri: https://www.creacionarchitecture.com/services
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\services.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-P9JEZ5F9G0
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-5ZGK9248
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\gtm.js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\feedback\js\help\prod\service\lazy.min.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/js/k=atari.vw.en_US.4l0AA7PDewI.O/am=CCBwAAg/d=1/rs=AGEqA5kj-E62Ys39Www0XlE6Y0lzecIWcw/m=view
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\_\atari\_\js\k=atari.vw.en_US.4l0AA7PDewI.O\am=CCBwAAg\d=1\rs=AGEqA5kj-E62Ys39Www0XlE6Y0lzecIWcw\m=view
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.dzyrLK8wl00.L.I11.O/am=CCBwAAg/d=1/rs=AGEqA5mI7HX0J4di75K4UiwVlNPDOH7nCw
+File Name: G:\000000 Work\001 - Bernadette Architecture Work\00000 - CREACION\000 - WEBSITE\Creacion Website\www.creacionarchitecture.com\_\atari\_\ss\k=atari.vw.dzyrLK8wl00.L.I11.O\am=CCBwAAg\d=1\rs=AGEqA5mI7HX0J4di75K4UiwVlNPDOH7nCw
+Content Type: text/css
+
